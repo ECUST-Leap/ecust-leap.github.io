@@ -1,3 +1,11 @@
+---
+tags:
+  - 出国
+  - 信息科学与工程学院
+  - 信息工程
+  - 2015
+---
+
 # [出国]-15-Aaron M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
 ## 基本背景
