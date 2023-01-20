@@ -6,7 +6,7 @@ tags:
   - 2015
 ---
 
-# [出国]-15-Aaron M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
+# Aaron (2015): M.S. in ECE @ CMU
 
 ## 基本背景
 
