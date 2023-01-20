@@ -10,13 +10,13 @@ tags:
 
 ## 基本背景
 
-> Major：信息工程
->
-> Grade：Overall GPA 3.88/4.00, Major GPA 3.95 / 4.00 Ranking: 1/91
->
-> TOEFL：113(30/30/23/30)(R/L/S/W) (10/15/2017)
->
-> GRE：V161 + Q168 + W4.5 (04/14/2018)
+- Major：信息工程
+- Grade：
+  - Overall GPA 3.88/4.00
+  - Major GPA 3.95 / 4.00 
+  - Ranking: 1/91
+- TOEFL：113(30/30/23/30)(R/L/S/W) (10/15/2017)
+- GRE：V161 + Q168 + W4.5 (04/14/2018)
 
 ## 申请结果
 
@@ -24,47 +24,45 @@ tags:
 
 录取结果：
 
-* Offer：
-  1. M.S. in ECE @ CMU
-  2. M.S. in ECE @ Cornell
-  3. ​M.S. in ECE @ Duke
-  4. M.S. in Computer Science and Engineering @ UCSD
-  5. M.Eng. in ECE @ UIUC
-  6. M.S. in CS37 @ USC
-  7. M.S. in CSME @ UCSD
-* Rej：
-  1. M.S. in EE @ Stanford
-  2. ​M.S. in ML @ CMU
-  3. M.S. in ECE @ Gatech
-  4. MSIN / MSIT-Mob @ CMU
-  5. M.S. in EE @ Columbia
-  6. MCDS @ CMU
-  7. M.S. in ECE-CE @ UCSD
-  8. M.S. in CS @ Brown
-  9. M.S. in CS @ NWU
-  10. M.S. in ECE-SES @ UT Austin
-  11. M.S. in CS-Data Science @ USC
-  12. M.S. in CSE @ Gatech
-  13. M.S. in CS @ McGill
-
+- Offer：
+  - M.S. in ECE @ CMU
+  - M.S. in ECE @ Cornell
+  - ​M.S. in ECE @ Duke
+  - M.S. in Computer Science and Engineering @ UCSD
+  - M.Eng. in ECE @ UIUC
+  - M.S. in CS37 @ USC
+  - M.S. in CSME @ UCSD
+- Rej：
+  - M.S. in EE @ Stanford
+  - ​M.S. in ML @ CMU
+  - M.S. in ECE @ Gatech
+  - MSIN / MSIT-Mob @ CMU
+  - M.S. in EE @ Columbia
+  - MCDS @ CMU
+  - M.S. in ECE-CE @ UCSD
+  - M.S. in CS @ Brown
+  - M.S. in CS @ NWU
+  - M.S. in ECE-SES @ UT Austin
+  - M.S. in CS-Data Science @ USC
+  - M.S. in CSE @ Gatech
+  - M.S. in CS @ McGill
 ## 科研经历
 
-> 国家级大创负责人
+ 国家级大创负责人
 
 ## 实习经历
 
-> Software Engineer Intern @ eBay Inc. (05/2019 - 08/2019)
+Software Engineer Intern @ eBay Inc. (05/2019 - 08/2019)
 
-
-> Data Science Intern @ Metrodata Tech Co., Ltd. (07/2018 - 09/2018)
+Data Science Intern @ Metrodata Tech Co., Ltd. (07/2018 - 09/2018)
 
 ## 竞赛经历
 
-> N/A
+ N/A
 
 ## 创业经历
 
-> N/A
+ N/A
 
 ## 申请心得
 
