@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: '华东理工大学飞跃手册',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/ECUST-Leap-Handbook/',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '华理飞跃',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,7 +72,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Yuchen-Wang-SH/ECUST-Leap-Handbook',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 华东理工大学飞跃手册. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
