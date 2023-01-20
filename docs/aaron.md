@@ -4,6 +4,9 @@ tags:
   - 信息科学与工程学院
   - 信息工程
   - 2015
+  - Carnegie Mellon University
+  - ECE
+  - CS
 ---
 
 # Aaron (2015): M.S. in ECE @ CMU
@@ -12,9 +15,9 @@ tags:
 
 - Major: 信息工程
 - Grade:
-  - Overall GPA: 3.88/4.00
+  - Overall GPA: 3.88 / 4.00
   - Major GPA: 3.95 / 4.00 
-  - Ranking: 1/91
+  - Ranking: 1 / 91
 - TOEFL: 113 (30/30/23/30) (R/L/S/W) (10/15/2017)
 - GRE: V161 + Q168 + W4.5 (04/14/2018)
 
