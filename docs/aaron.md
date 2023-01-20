@@ -10,21 +10,24 @@ tags:
 
 ## 基本背景
 
-- Major：信息工程
-- Grade：
-  - Overall GPA 3.88/4.00
-  - Major GPA 3.95 / 4.00 
+- Major: 信息工程
+- Grade:
+  - Overall GPA: 3.88/4.00
+  - Major GPA: 3.95 / 4.00 
   - Ranking: 1/91
-- TOEFL：113(30/30/23/30)(R/L/S/W) (10/15/2017)
-- GRE：V161 + Q168 + W4.5 (04/14/2018)
+- TOEFL: 113 (30/30/23/30) (R/L/S/W) (10/15/2017)
+- GRE: V161 + Q168 + W4.5 (04/14/2018)
 
 ## 申请结果
 
-最终去向：M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
+### 最终去向
 
-录取结果：
+M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
-- Offer：
+### 录取结果
+
+#### Offer
+
   - M.S. in ECE @ CMU
   - M.S. in ECE @ Cornell
   - ​M.S. in ECE @ Duke
@@ -32,7 +35,9 @@ tags:
   - M.Eng. in ECE @ UIUC
   - M.S. in CS37 @ USC
   - M.S. in CSME @ UCSD
-- Rej：
+
+#### Rej
+
   - M.S. in EE @ Stanford
   - ​M.S. in ML @ CMU
   - M.S. in ECE @ Gatech
@@ -48,7 +53,7 @@ tags:
   - M.S. in CS @ McGill
 ## 科研经历
 
- 国家级大创负责人
+国家级大创负责人
 
 ## 实习经历
 
@@ -58,11 +63,11 @@ Data Science Intern @ Metrodata Tech Co., Ltd. (07/2018 - 09/2018)
 
 ## 竞赛经历
 
- N/A
+N/A
 
 ## 创业经历
 
- N/A
+N/A
 
 ## 申请心得
 
