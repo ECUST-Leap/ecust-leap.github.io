@@ -9,7 +9,7 @@ tags:
 description: 出国留学不是说最后一年我突然想要出国了就可以实现的（当然大佬除外），出国留学是需要一个明确的计划。
 ---
 
-# Yimin (2017): Master of Accounting @ The University of Hongkong
+# Yimin (2017): Master of Accounting @ The University of Hong Kong
 
 ## 基本背景
 
