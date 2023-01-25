@@ -23,7 +23,7 @@ description: offer像熨斗,熨平了一切焦虑。
 
 ### 最终去向
 
-[MSc in Data Sciences & Business Analytics @ ESSEC & CentraleSupélec]((https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/) )
+[MSc in Data Sciences & Business Analytics @ ESSEC & CentraleSupélec](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/)
 
 ### 录取结果
 
