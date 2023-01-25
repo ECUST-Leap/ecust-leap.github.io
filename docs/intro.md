@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# 前言
+# 华东理工大学飞跃手册
 
 ## 公告
 
@@ -29,11 +29,11 @@ GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzr
 联系方式：[**runqiu.zhang@yale.edu**](mailto:runqiu.zhang@yale.edu) & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
 
 
-## 特别鸣谢
+<!-- ## 特别鸣谢
 
 感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)
 
-感谢18级露露的万字跨考分享：[[考研]-18-露露-金融专硕@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系)
+感谢18级露露的万字跨考分享：[[考研]-18-露露-金融专硕@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系) -->
 
 ## 飞跃手册是什么？
 
