@@ -87,7 +87,7 @@ const config = {
             items: [
               {
                 label: '故事',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
