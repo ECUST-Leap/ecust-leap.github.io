@@ -6,7 +6,7 @@ tags:
   - 2018
   - Yale University
   - Biostatistics
-description: 对于喜欢的事情还是要勇于追求，相信申请季都会有好结果的！
+description: 总之！要相信每个人都会有最适合自己的Offer来！
 ---
 
 # Vivian (2018): MPH in Biostatistics @ Yale University
