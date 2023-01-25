@@ -7,6 +7,7 @@ tags:
   - Carnegie Mellon University
   - ECE
   - CS
+description: 如果你比较懒散，我的攻略可能适合你，可以批判性地阅读。
 ---
 
 # Jack (2016): M.S. in ECE @ CMU

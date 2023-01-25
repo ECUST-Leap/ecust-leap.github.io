@@ -7,6 +7,7 @@ tags:
   - Carnegie Mellon University
   - ECE
   - CS
+description: GPA以及语言成绩是申请研究生（至少是硕士）的基本面，也许是最重要的指标。
 ---
 
 # Aaron (2015): M.S. in ECE @ CMU
