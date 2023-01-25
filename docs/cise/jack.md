@@ -9,8 +9,6 @@ tags:
   - CS
 ---
 
-# Aaron (2015): M.S. in ECE @ CMU
-
 # Jack (2016): M.S. in ECE @ CMU
 
 ## 基本背景
