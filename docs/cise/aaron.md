@@ -130,6 +130,8 @@ EECS类知识（尤其是CS）在互联网上有非常多世界顶级的教学�
 
 我现在在美国的科技业做软件工程师（目前在Apple），欢迎小伙伴们有问题来联系我。
 
+## 联系方式
+
 LinkedIn: https://www.linkedin.com/in/yuchen-wang-sh/
 
 GitHub: https://github.com/Yuchen-Wang-SH
