@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkecust_leap_handbook=self.webpackChunkecust_leap_handbook||[]).push([[1716],{491:e=>{e.exports=JSON.parse('{"permalink":"/ECUST-Leap-Handbook/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
