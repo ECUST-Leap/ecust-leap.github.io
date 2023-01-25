@@ -68,9 +68,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '故事',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '公告', position: 'left'},
           {
             href: 'https://github.com/Yuchen-Wang-SH/ECUST-Leap-Handbook',
             label: 'GitHub',
@@ -85,7 +85,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '故事',
                 to: '/docs/intro',
               },
             ],
