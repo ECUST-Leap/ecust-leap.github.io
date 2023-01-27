@@ -55,9 +55,9 @@ industry 4.0 @ NUS
 
 托福之前上过课，GRE自学，但是主要还是自己刷题，找到考试的感觉。更具体地，托福考了两次，阅读听力就是刷题背单词，口语本来相对来说比较擅长，写作比较一般，但通过自己总结TPO里的话题类型和多打字多练习从22到26。考试的时候写作题都要多打字，字数越多分越高是个亲测有效的小技巧（当然说废话也不行），我把TPO所有写作过了一遍，把常见类型各种问题都总结成如下的观点句，考试也是这样思路，有观点框架后扩写。写作的确难磨，需要多练。
 
-![Image1]([Ecust-Leap/Image1.png at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/blob/main/3出国/Image/Image-Zoe/Image1.png))
+![image1](img/zoe/1.png)
 
-![Image2]([Ecust-Leap/Image1.png at main · paulzrq/Ecust-Leap (github.com)](https://github.com/paulzrq/Ecust-Leap/blob/main/3出国/Image/Image-Zoe/Image2.png))
+![image2](img/zoe/2.png)
 
 GRE：背单词我用的墨墨背单词，其他的只需上b站搜索“皇冠GRE，宝藏！
 
