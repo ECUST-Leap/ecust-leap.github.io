@@ -14,21 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          path: 'build'
+          path: 'source-repo'
       - uses: actions/setup-node@v3
-        working-directory: build
         with:
           node-version: 18
           cache: yarn
+          cache-dependency-path: ./source-repo/yarn.lock
 
       - name: Install dependencies
-        run: |
-          cd build
-          yarn install --frozen-lockfile
+        working-directory: source-repo
+        run: yarn install --frozen-lockfile
       - name: Build website
-        run: |
-          yarn build
-          cd ..
+        working-directory: source-repo
+        run: yarn build
 
       - name: Checkout Dev Target
         uses: actions/checkout@v3
