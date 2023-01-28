@@ -1,0 +1,50 @@
+name: Deploy to Dev
+
+on:
+  push:
+    branches:
+      - dev
+    # Review gh actions docs if you want to further define triggers, paths, etc
+    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+
+jobs:
+  deploy:
+    name: Deploy to Dev
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          path: 'build'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+
+      - name: Install dependencies
+        run: |
+          cd build
+          yarn install --frozen-lockfile
+      - name: Build website
+        run: |
+          yarn build
+          cd ..
+
+      - name: Checkout Dev Target
+        uses: actions/checkout@v3
+        with:
+          repository: ECUST-Leap/ecust-leap-dev
+          path: 'deploy'
+          # token: ${{ secrets.PAT }}
+
+      - name: Set GitHub Actions as Commit Author
+        run: |
+          git config --global user.name github-actions[bot]
+          git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Push files to target
+        run: |
+          cp -r build/build/* deploy
+          cd deploy
+          git add .
+          git commit -m $GITHUB_SHA
+          git push
