@@ -40,10 +40,21 @@ jobs:
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
 
-      - name: Push files to target
-        run: |
-          cp -r source-repo/build/* deploy
-          cd deploy
-          git add .
-          git commit -m $GITHUB_SHA
-          git push
+      - name: Pushes to dev repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'source-repo/build'
+          destination-github-username: 'ECUST-Leap'
+          destination-repository-name: 'ecust-leap-dev'
+          user-email: github-actions@github.com
+          target-branch: main
+
+      # - name: Push files to target
+      #   run: |
+      #     cp -r source-repo/build/* deploy
+      #     cd deploy
+      #     git add .
+      #     git commit -m $GITHUB_SHA
+      #     git push
