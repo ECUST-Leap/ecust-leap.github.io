@@ -14,23 +14,26 @@ description: <一句话总结你的飞跃>
 
 ## 基本背景
 
--  Major：xxxx
--  Submajor：xxx
--  Grade： GPA xxx/4.00
--  Ranking: xx/xx
--  Certificate：
--  Skill：
+- Major：xxxx
+- Submajor：xxx
+- Grade
+  - GPA: xxx / 4.00
+  - Ranking: xx / xx
+- Certificate
+  - xx  
+- Skill
+  - xx  
 
 ## 科研经历
 
--  xx校内科研
--  xx暑研
--  xxx发表
+- xx校内科研
+- xx暑研
+- xxx发表
 
 ## 实习经历
 
--  一段三中一华ibd
--  一段mbb
+- 一段三中一华ibd
+- 一段mbb
 
 ## 竞赛经历
 
@@ -44,26 +47,28 @@ description: <一句话总结你的飞跃>
 
 ### 数学
 
-- xxx
+xxx
 
 ### 英语
 
-- xxx
+xxx
 
 ### 政治
 
-- xxx
+xxx
 
 ### 专业课
 
-- xxx
+xxx
 
 ### 心态调整
 
-- xxx
+xxx
 
 ## 致谢
 
 xxx
 
-- 如有问题欢迎联系（if possible）[xxx\@xxx.edu](mailto:xxx@xxx.edu){.email}
+## 联系方式 
+
+<!-- <这部分optional> -->
