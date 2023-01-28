@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - dev
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
   deploy:
@@ -28,18 +26,6 @@ jobs:
         working-directory: source-repo
         run: yarn build
 
-      - name: Checkout Dev Target
-        uses: actions/checkout@v3
-        with:
-          repository: ECUST-Leap/ecust-leap-dev
-          path: 'deploy'
-          # token: ${{ secrets.PAT }}
-
-      - name: Set GitHub Actions as Commit Author
-        run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-
       - name: Pushes to dev repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
@@ -50,11 +36,3 @@ jobs:
           destination-repository-name: 'ecust-leap-dev'
           user-email: github-actions@github.com
           target-branch: main
-
-      # - name: Push files to target
-      #   run: |
-      #     cp -r source-repo/build/* deploy
-      #     cd deploy
-      #     git add .
-      #     git commit -m $GITHUB_SHA
-      #     git push
