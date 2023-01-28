@@ -42,7 +42,7 @@ jobs:
 
       - name: Push files to target
         run: |
-          cp -r build/build/* deploy
+          cp -r source-repo/build/* deploy
           cd deploy
           git add .
           git commit -m $GITHUB_SHA
