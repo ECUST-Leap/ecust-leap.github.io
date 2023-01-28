@@ -25,6 +25,8 @@ jobs:
       - name: Build website
         working-directory: source-repo
         run: yarn build
+        env:
+          BASE_URL: ecust-leap-dev
 
       - name: Pushes to dev repository
         uses: cpina/github-action-push-to-another-repository@main
