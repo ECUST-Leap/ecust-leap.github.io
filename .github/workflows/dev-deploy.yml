@@ -15,15 +15,16 @@ jobs:
       - uses: actions/checkout@v3
         with:
           path: 'build'
-      - name: cd into build directory
-        run: cd build
       - uses: actions/setup-node@v3
+        working-directory: build
         with:
           node-version: 18
           cache: yarn
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: |
+          cd build
+          yarn install --frozen-lockfile
       - name: Build website
         run: |
           yarn build
