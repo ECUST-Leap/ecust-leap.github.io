@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Yuchen-Wang-SH', // Usually your GitHub org/user name.
-  projectName: 'ECUST-Leap-Handbook', // Usually your repo name.
+  organizationName: 'ECUST-Leap', // Usually your GitHub org/user name.
+  projectName: 'ecust-leap.github.io', // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -73,7 +73,7 @@ const config = {
           },
           {to: '/blog', label: '公告', position: 'left'},
           {
-            href: 'https://github.com/Yuchen-Wang-SH/ECUST-Leap-Handbook',
+            href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
               },
             ],
           },
