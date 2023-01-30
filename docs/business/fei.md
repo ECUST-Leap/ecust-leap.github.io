@@ -26,16 +26,14 @@ description: 不要只听中介说这是个好专业，或是“好申的专业�
 
 金融数学 @ HKUST
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - BA @ CUHK
 - DABC @ NYU Shanghai  
   - 3000🔪
 - MAFM @ HKUST
 
-#### 没有消息
+### 没有消息
 
 A lot...  DS@HKU, Stat@HKU, DSML@NUS, Stat@NUS
 

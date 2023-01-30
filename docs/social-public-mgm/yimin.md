@@ -24,16 +24,14 @@ description: 出国留学不是说最后一年我突然想要出国了就可以�
 
 会计学硕士 Master of Accounting @ The University of Hong Kong
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - Master of Accounting @ The University of Hong Kong
 - Master of Science in Real Estate Development @ Columbia University
 - Master of Science in Finance （Corporation Finance）@ WUSTL
 - Master of Science in Accounting, Financial Management and Control @ Bocconi University
 
-#### Rej
+### Rej
 
 - MPA @ Columbia University
 - Master of Science in Behavioral Finance@ Cornell University
