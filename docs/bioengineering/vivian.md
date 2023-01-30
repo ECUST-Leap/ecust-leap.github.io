@@ -25,9 +25,7 @@ description: 总之！要相信每个人都会有最适合自己的Offer来！
 
 MPH in Biostatistics @ Yale University（暂定）
 
-### 录取结果
-
-#### Offer
+### Offer
 
 -	MPH in Biostatistics @ Yale University (20,000 dollar)
 -	Mater of Biostatistics @ Duke University (5,000 dollar)
@@ -37,19 +35,19 @@ MPH in Biostatistics @ Yale University（暂定）
 -	MS in Biotechnology @ New York University
 -	MS in Applied Biosciences and Biotechnology @ Imperial College       London
 
-#### Waitlist
+### Waitlist
 
 -	MS in Computational Biology and Quantitative Genetics @ Harvard	
 -	MS in Community Health and Prevention Research @ Stanford University
 -	MS in Biostatistics @ Brown University
 
-#### Rej
+### Rej
 
 - MS in Biostatistics @ Johns Hopkins University
 - MPH in Biostatistics @ University of California, Berkeley
 - Mphil in Biotechnology @ University of Cambridge
 
-#### 科研经历
+## 科研经历
 
 3校内科研 
 
