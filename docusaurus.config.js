@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Yuchen-Wang-SH', // Usually your GitHub org/user name.
-  projectName: 'ECUST-Leap-Handbook', // Usually your repo name.
+  organizationName: 'ECUST-Leap', // Usually your GitHub org/user name.
+  projectName: 'ecust-leap.github.io', // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
