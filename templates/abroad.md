@@ -36,16 +36,14 @@ M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
 <!-- > 项目 @ 学校 -->
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - M.S. in ECE @ CMU
 - M.S. in ECE @ Cornell
   - 奖学金: xxx
 - <其他>
 
-#### Rej
+### Rej
 
 - M.S. in EE @ Stanford
 - ​M.S. in ML @ CMU
