@@ -14,7 +14,7 @@ description: 不要给自己设限，祝大家好运
 
 ## 基本背景
 
-- Major：Msc Management @LBS, Bsc Chemical Engineering @ECUST
+- Major：Msc Management @ LBS, Bsc Chemical Engineering @ ECUST
 - Grade
   - GPA: 3.60 / 4.00
 - Skill
