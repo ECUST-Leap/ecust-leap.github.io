@@ -40,16 +40,16 @@ M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
 #### Offer
 
-  - M.S. in ECE @ CMU
-  - M.S. in ECE @ Cornell
-    - 奖学金: xxx
-  - <其他>
+- M.S. in ECE @ CMU
+- M.S. in ECE @ Cornell
+  - 奖学金: xxx
+- <其他>
 
 #### Rej
 
-  - M.S. in EE @ Stanford
-  - ​M.S. in ML @ CMU
-  - <其他>
+- M.S. in EE @ Stanford
+- ​M.S. in ML @ CMU
+- <其他>
 
 <!-- > 这部分的学校名和专业名的简称如果比较常见的话可以简称，因为列表可能会很长，如果都写全称的话可能会显得拥挤 -->
 
@@ -59,7 +59,7 @@ xxx
 
 ## 实习经历
 
-Software Engineer Intern @ eBay Inc. (05/2019 - 08/2019)
+- Software Engineer Intern @ eBay Inc. (05/2019 - 08/2019)
 
 <!-- > 职称 @ 公司 (开始日期 - 结束日期） -->
 
