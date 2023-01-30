@@ -27,18 +27,19 @@ description: <一句话总结你的飞跃>
 ## 申请结果
 
 ### 最终去向
+
 Job @ Firm
 
 ### Offer
 
-  - Job @ Firm
-  - Job @ Firm 
+- Job @ Firm
+- Job @ Firm 
   
 ### Rej
 
-  - Job @ Firm
-  - Job @ Firm 
-  - <其他>
+- Job @ Firm
+- Job @ Firm 
+- <其他>
 
 ## 科研经历
 
