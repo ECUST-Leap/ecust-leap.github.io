@@ -73,7 +73,7 @@ const config = {
           },
           {to: '/blog', label: '公告', position: 'left'},
           {
-            href: 'https://github.com/Yuchen-Wang-SH/ECUST-Leap-Handbook',
+            href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
               },
             ],
           },
