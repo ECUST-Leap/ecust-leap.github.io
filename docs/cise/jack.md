@@ -26,16 +26,14 @@ description: 如果你比较懒散，我的攻略可能适合你，可以批判�
 
 M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
-### 录取结果
-
-#### Offer
+### Offer
   - M.S. in ECE @ CMU (21 Spring)
   - ​M.S. in CS @ UVA (20 Fall)
 	- 奖学金: $2000
   - ​M.S. in CS @ WUSTL (20 Fall)
   - ​M.S. in CS @ NEU (20 Fall)
 
-#### Rej
+### Rej
   - ​M.S. in ECE @ CMU (20 Fall)
   - M.Eng. in CS @ Cornell (20 Fall)
   - M.S. in CS @ Duke (20 Fall)

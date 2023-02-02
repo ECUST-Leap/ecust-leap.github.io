@@ -26,9 +26,7 @@ description: offer像熨斗,熨平了一切焦虑。
 
 MS in Biostatistics@Yale
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - Ms in Biostatistics@Umich
 - Ms in Statistics and Data Science@Edinburgh
@@ -40,7 +38,7 @@ MS in Biostatistics@Yale
 - MA in Statistics@Columbia
 - Ms in Statistics@Rice
 
-#### Rej
+### Rej
 
 - MSc in Statistics@Imperial College
 - MSc in Statistics@UCL

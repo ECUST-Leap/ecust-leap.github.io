@@ -24,9 +24,7 @@ description: 对于喜欢的事情还是要勇于追求，相信申请季都会�
 
 MPH in Biostatistics @ Columbia University
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - ​	MPH in Biostatistics @ Columbia University
 - ​	MPH in Biostatistics @ New York University
@@ -36,7 +34,7 @@ MPH in Biostatistics @ Columbia University
 - ​	MSc in Biomedical Data Science @ Nanyang Technological University
 - ​	MS in Quantitative Biology and Bioinformatics @ CMU
 
-#### Rej
+### Rej
 
 - ​	MSc in Bioinformatics and Theoretical Systems Biology @ Imperial College London
 - ​	MS in Biostatistics @ Brown University

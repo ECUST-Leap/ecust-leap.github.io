@@ -28,9 +28,7 @@ description: GPA以及语言成绩是申请研究生（至少是硕士）的基�
 
 M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
-### 录取结果
-
-#### Offer
+### Offer
 
   - M.S. in ECE @ CMU
   - M.S. in ECE @ Cornell
@@ -40,7 +38,7 @@ M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
   - M.S. in CS37 @ USC
   - M.S. in CSME @ UCSD
 
-#### Rej
+### Rej
 
   - M.S. in EE @ Stanford
   - ​M.S. in ML @ CMU

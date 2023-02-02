@@ -25,15 +25,13 @@ description: offer像熨斗,熨平了一切焦虑。
 
 [MSc in Data Sciences & Business Analytics @ ESSEC & CentraleSupélec](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/)
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - MSc in Information Technology@ GLASGOW
 - MSc in Digital Information Management and Systems Innovation@ LEEDS
 - MSc in Information Systems and Digital Innovation@ Warwick Business School
 
-#### Rej
+### Rej
 
 - MIM@ INSEAD
 

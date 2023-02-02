@@ -25,16 +25,14 @@ description: 最好一开始就针对一个方向不断积累，中间换方向�
 
 Master of Social science in Communication @ National University of Singapore
 
-### 录取结果
-
-#### Offer
+### Offer
 
 - Master of Social science in Global Communication @ The University of Sydney
 - Master of Social science in Mass Communication @ The University of Melbourne
 - Integrated marketing communication @ Northwestern University
 
 
-#### Rej
+### Rej
 - New York University
 - Columbia University
 - University of Southern California
