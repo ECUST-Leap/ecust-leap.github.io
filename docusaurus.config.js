@@ -53,6 +53,7 @@ const config = {
         },
         gtag: {
           trackingID: process.env.TRACKING_ID ?? 'xxx',
+          anonymizeIP: true,
         },
       }),
     ],
