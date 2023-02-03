@@ -9,6 +9,9 @@ type Props = WrapperProps<typeof PaginatorType>;
 
 export default function PaginatorWrapper(props: Props): JSX.Element {
   const { colorMode } = useColorMode();
+  // 02/03/2023: so far only mapping with url and path works.
+  // mapping with title has the problem of somehow using the title from the
+  // previous page.
   return (
     <>
       <Paginator {...props} />
@@ -18,7 +21,7 @@ export default function PaginatorWrapper(props: Props): JSX.Element {
         repoId="R_kgDOIzvQtQ"
         category="评论区"
         categoryId="DIC_kwDOIzvQtc4CT-SP"
-        mapping="title"
+        mapping="url"
         strict="0"
         reactionsEnabled="1"
         emitMetadata="1"
