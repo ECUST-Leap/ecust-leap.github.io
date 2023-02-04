@@ -22,7 +22,7 @@ export default function PaginatorWrapper(props: Props): JSX.Element {
         category="评论区"
         categoryId="DIC_kwDOIzvQtc4CT-SP"
         mapping="url"
-        strict="0"
+        strict="1"
         reactionsEnabled="1"
         emitMetadata="1"
         inputPosition="top"
