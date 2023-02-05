@@ -52,3 +52,7 @@ sidebar_position: 2
 如果是第一次贡献开源项目的新手，请看这一篇[官方介绍](https://docs.github.com/zh/get-started/quickstart/contributing-to-projects)。
 
 因为本项目所有文稿的最终成品是Markdown文件，所以希望你的文稿文件格式是`.md`。
+
+## 稿件更新
+
+如果你想对你已经上架的稿件进行任何更新，欢迎通过以上同样的方式联系我们。
