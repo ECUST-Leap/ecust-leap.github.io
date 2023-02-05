@@ -1,7 +1,7 @@
-import React from 'react';
-import BlogPostItem from '@theme-original/BlogPostItem';
-import type BlogPostItemType from '@theme/BlogPostItem';
-import type {WrapperProps} from '@docusaurus/types';
+import React from "react";
+import BlogPostItem from "@theme-original/BlogPostItem";
+import type BlogPostItemType from "@theme/BlogPostItem";
+import type { WrapperProps } from "@docusaurus/types";
 import { useColorMode } from "@docusaurus/theme-common";
 import Giscus from "@giscus/react";
 
