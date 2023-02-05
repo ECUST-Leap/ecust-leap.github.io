@@ -15,9 +15,9 @@ export default function BlogPostItemWrapper(props: Props): JSX.Element {
       <Giscus
         repo="ECUST-Leap/ecust-leap.github.io"
         repoId="R_kgDOIzvQtQ"
-        category="评论区"
-        categoryId="DIC_kwDOIzvQtc4CT-SP"
-        mapping="url"
+        category="公告"
+        categoryId="DIC_kwDOIzvQtc4CT8lW"
+        mapping="title"
         strict="1"
         reactionsEnabled="1"
         emitMetadata="1"
