@@ -1,17 +1,18 @@
 import React from "react";
-import BlogPostItem from "@theme-original/BlogPostItem";
-import type BlogPostItemType from "@theme/BlogPostItem";
+import BlogPostPaginator from "@theme-original/BlogPostPaginator";
+import type BlogPostPaginatorType from "@theme/BlogPostPaginator";
 import type { WrapperProps } from "@docusaurus/types";
 import { useColorMode } from "@docusaurus/theme-common";
 import Giscus from "@giscus/react";
 
-type Props = WrapperProps<typeof BlogPostItemType>;
+type Props = WrapperProps<typeof BlogPostPaginatorType>;
 
-export default function BlogPostItemWrapper(props: Props): JSX.Element {
+export default function BlogPostPaginatorWrapper(props: Props): JSX.Element {
   const { colorMode } = useColorMode();
   return (
     <>
-      <BlogPostItem {...props} />
+      <BlogPostPaginator {...props} />
+      <br></br>
       <Giscus
         repo="ECUST-Leap/ecust-leap.github.io"
         repoId="R_kgDOIzvQtQ"
