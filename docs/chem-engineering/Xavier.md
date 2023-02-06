@@ -72,7 +72,6 @@ Global Investment Research @ Goldman Sachs Hong Kong
 -	Recruiting seasons是持久战，要准备的东西很多但不论是简历，网申，网测还是视频面试都是用心就可以做好的，珍惜拿到的每一个面试去和面试官建立connection。
 -	Being Likable is the most important thing in interview
 
-
 ## 致谢
 
 不要给自己设限，祝大家好运啦哈哈哈
