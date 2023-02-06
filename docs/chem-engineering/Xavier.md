@@ -4,7 +4,7 @@ tags:
   - 化工学院
   - 化学工程
   - 2017
-  - Goldman Sachs Hong Kong 香港高盛
+  - Goldman Sachs
   - Global Investment Research
 
 description: 不要给自己设限，祝大家好运
