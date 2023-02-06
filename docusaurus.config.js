@@ -4,12 +4,14 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const baseUrl = process.env.BASE_URL ?? '/';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '华东理工大学飞跃手册',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: process.env.BASE_URL ?? '/',
+  baseUrl: baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -55,6 +57,21 @@ const config = {
           trackingID: process.env.TRACKING_ID ?? 'xxx',
           anonymizeIP: true,
         },
+      }),
+    ],
+  ],
+
+  themes: [
+    [
+      // @ts-ignore
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      // @ts-ignore
+      ({
+        hashed: true,
+        docsRouteBasePath: baseUrl,
+        language: ["en", "zh"],
+        highlightSearchTermsOnTargetPage: true,
       }),
     ],
   ],
