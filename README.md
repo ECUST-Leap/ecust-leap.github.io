@@ -1,3 +1,11 @@
+# 华东理工大学飞跃手册
+
+https://ecust-leap.github.io
+
+论坛：https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
+
+---
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
