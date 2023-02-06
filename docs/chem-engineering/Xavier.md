@@ -52,17 +52,12 @@ Global Investment Research @ Goldman Sachs Hong Kong
 
 ### Timeline
 
-3月-8月做networking + 积极参加 firm event
-
-8月-9月改简历，写Cover Letter，准备Behavioral，开始follow market news
-
-9月-10月 提交网申，复习technical，投行400问，做网测，录VI面试
-
-11月 一轮面试，HK的ED，主要聊stock pitch
-
-二轮面试，墨尔本的ED，主要聊CV的内容，fit question和motivation
-
-12月 三轮面试，HK的MD，闲聊，motivation，markets news，股票和行业都有cover到，一周后收到offer call。
+- 3月-8月做networking + 积极参加 firm event
+- 8月-9月改简历，写Cover Letter，准备Behavioral，开始follow market news
+- 9月-10月 提交网申，复习technical，投行400问，做网测，录VI面试
+- 11月 一轮面试，HK的ED，主要聊stock pitch
+- 二轮面试，墨尔本的ED，主要聊CV的内容，fit question和motivation
+- 12月 三轮面试，HK的MD，闲聊，motivation，markets news，股票和行业都有cover到，一周后收到offer call。
 
 
 ## 一些小建议
@@ -84,4 +79,4 @@ Global Investment Research @ Goldman Sachs Hong Kong
 
 ## 联系方式 
 
-如有问题欢迎联系xavierzhang999@163.com talk to me on Linkedin：Xavier Zhang
+如有问题欢迎联系xavierzhang999@163.com talk to me on Linkedin[Xavier Zhang]([https://www.linkedin.com/in/xavierzhang329/])
