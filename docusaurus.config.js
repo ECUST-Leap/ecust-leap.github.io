@@ -69,7 +69,7 @@ const config = {
       // @ts-ignore
       ({
         hashed: true,
-        docsRouteBasePath: baseUrl,
+        docsRouteBasePath: '/',
         language: ["en", "zh"],
         highlightSearchTermsOnTargetPage: true,
       }),
