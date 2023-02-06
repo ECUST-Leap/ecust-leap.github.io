@@ -4,12 +4,14 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const baseUrl = process.env.BASE_URL ?? '/';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '华东理工大学飞跃手册',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: process.env.BASE_URL ?? '/',
+  baseUrl: baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -59,6 +61,21 @@ const config = {
     ],
   ],
 
+  themes: [
+    [
+      // @ts-ignore
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      // @ts-ignore
+      ({
+        hashed: true,
+        docsRouteBasePath: baseUrl,
+        language: ["en", "zh"],
+        highlightSearchTermsOnTargetPage: true,
+      }),
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -77,6 +94,11 @@ const config = {
           },
           {to: '/blog', label: '公告', position: 'left'},
           {
+            label: '论坛',
+            href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
             label: 'GitHub',
             position: 'right',
@@ -85,55 +107,51 @@ const config = {
       },
       footer: {
         style: 'dark',
-        // links: [
-        //   {
-        //     title: 'Links',
-        //     items: [
-        //       {
-        //         label: '故事',
-        //         to: '/',
-        //       },
-        //       {
-        //         label: '公告',
-        //         to: '/blog',
-        //       },
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
-        //       },
-        //     ],
-        //   },
-        //   // {
-        //   //   title: 'Community',
-        //   //   items: [
-        //   //     {
-        //   //       label: 'Stack Overflow',
-        //   //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //   //     },
-        //   //     {
-        //   //       label: 'Discord',
-        //   //       href: 'https://discordapp.com/invite/docusaurus',
-        //   //     },
-        //   //     {
-        //   //       label: 'Twitter',
-        //   //       href: 'https://twitter.com/docusaurus',
-        //   //     },
-        //   //   ],
-        //   // },
-        //   // {
-        //   //   title: 'More',
-        //   //   items: [
-        //   //     {
-        //   //       label: '公告',
-        //   //       to: '/blog',
-        //   //     },
-        //   //     {
-        //   //       label: 'GitHub',
-        //   //       href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
-        //   //     },
-        //   //   ],
-        //   // },
-        // ],
+        links: [
+          {
+            title: 'Links',
+            items: [
+              {
+                label: '故事',
+                to: '/',
+              },
+              {
+                label: '公告',
+                to: '/blog',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: '论坛',
+                href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
+              }
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
+              },
+            ],
+          },
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} 华东理工大学飞跃手册. Built with Docusaurus.`,
       },
       prism: {
