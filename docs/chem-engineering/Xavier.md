@@ -63,14 +63,14 @@ Global Investment Research @ Goldman Sachs Hong Kong
 ## 一些小建议
 
 - 申请要早，越早越好，尤其是香港的部门，最好八月就把网申都投递出去。
--	Target school卡学校不卡专业，尤其是香港，本科申研的时候选校要谨慎。
--	Networking很重要，可以了解到很多公司的insights，同时也帮助了解本身是不是cultural fits。（个人感觉MS文化就很tough，GS更chill一点）对于英国申请，networking更重要，如果能要到referral拿到面试的几率会大很多。
--	面试准备一定要做好，能不能拿到面试有运气的成分，但拿到的话就成功一大半了，所以不要浪费掉难得的机会。
--	能拿到面试的时候，其实大家的财务功底和市场敏锐度都是很强的，所以讲好一个story对帮助你differentiate yourself非常重要。
--	Excel job tracker非常好用，及时更新自己找工作的进展和面试阶段，以及networking的key contact。
--	实习经历比发论文，校园项目，学生组织，考证等重要很多（仅限金融求职哈），三年硕士的话建议好好分配个人时间更多的做有深度的实习。（一年硕士其实找工作上还是靠个人之前的积累）
--	Recruiting seasons是持久战，要准备的东西很多但不论是简历，网申，网测还是视频面试都是用心就可以做好的，珍惜拿到的每一个面试去和面试官建立connection。
--	Being Likable is the most important thing in interview
+- Target school卡学校不卡专业，尤其是香港，本科申研的时候选校要谨慎。
+- Networking很重要，可以了解到很多公司的insights，同时也帮助了解本身是不是cultural fits。（个人感觉MS文化就很tough，GS更chill一点）对于英国申请，networking更重要，如果能要到referral拿到面试的几率会大很多。
+- 面试准备一定要做好，能不能拿到面试有运气的成分，但拿到的话就成功一大半了，所以不要浪费掉难得的机会。
+- 能拿到面试的时候，其实大家的财务功底和市场敏锐度都是很强的，所以讲好一个story对帮助你differentiate yourself非常重要。
+- Excel job tracker非常好用，及时更新自己找工作的进展和面试阶段，以及networking的key contact。
+- 实习经历比发论文，校园项目，学生组织，考证等重要很多（仅限金融求职哈），三年硕士的话建议好好分配个人时间更多的做有深度的实习。（一年硕士其实找工作上还是靠个人之前的积累）
+- Recruiting seasons是持久战，要准备的东西很多但不论是简历，网申，网测还是视频面试都是用心就可以做好的，珍惜拿到的每一个面试去和面试官建立connection。
+- Being Likable is the most important thing in interview
 
 ## 致谢
 
