@@ -10,7 +10,7 @@ const baseUrl = process.env.BASE_URL ?? '/';
 const config = {
   title: '华东理工大学飞跃手册',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ecust-leap.github.io',
   baseUrl: baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
