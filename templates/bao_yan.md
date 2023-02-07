@@ -59,21 +59,27 @@ description: <一句话总结你的飞跃>
 
 ## 科研经历
 
-- xx学院xx老师课题组 @ 具体研究方向
-  - 研究成果
-  - 技能获得
-  - <其他>
+### xx老师课题组 @ xx学校 (mm/yyyy - mm/yyyy)
+
+<详情, 如研究成果，技能获得，等>
 
 ## 实习经历
 
-- xx Intern @ Company (xx/20xx - xx/20xx)
-- xx PTA @ Company
-- <其他>
+### position @ company (mm/yyyy - mm/yyyy)
+
+<详情>
+
+<!-- > 职称 @ 公司 (开始日期 - 结束日期） -->
 
 ## 竞赛经历
 
-- xx 大赛 xx 级别 xx 奖 @ 颁奖单位 (xx/20xx - xx/20xx)
+### 成绩 @ 比赛 (mm/yyyy)
 
+<详情>
+
+## 创业经历
+
+### 公司 (mm/yyyy - mm/yyyy)
 
 ## 申请心得
 

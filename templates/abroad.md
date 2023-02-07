@@ -12,19 +12,19 @@ description: <一句话总结你的飞跃>
 
 <!-- > `tags` 是用来在文章的最后显示一系列标签，便于读者点击任意标签即可找到所有带相同标签的文章。 -->
 
-# Aaron (2015): M.S. in ECE @ CMU
+# nickname (20xx): degree in program @ school
 
 <!-- > <名称> (<本科入学年份>)：<去向，尽量简短，因为标题太长就不美观> -->
 
 ## 基本背景
 
-- Major: 信息工程
+- Major: xxx
 - Grade:
-  - Overall GPA: 3.88 / 4.00
-  - Major GPA: 3.95 / 4.00 
-  - Ranking: 1 / 91
-- TOEFL: 113 (30/30/23/30) (R/L/S/W) (10/15/2017)
-- GRE: V161 + Q168 + W4.5 (04/14/2018)
+  - Overall GPA: xx / 4.00
+  - Major GPA: xx / 4.00 
+  - Ranking: xx / xx
+- TOEFL: xxx (xx/xx/xx/xx) (R/L/S/W) (mm/dd/yyyy)
+- GRE: Vxxx + Qxxx + Wx.x (mm/dd/yyyy)
 
 <!-- > 雅思等其他考试遵照类似格式即可 -->
 
@@ -32,44 +32,49 @@ description: <一句话总结你的飞跃>
 
 ### 最终去向
 
-M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
+degree in program @ school
 
 <!-- > 项目 @ 学校 -->
 
 ### Offer
 
-- M.S. in ECE @ CMU
-- M.S. in ECE @ Cornell
+- degree in program @ school
+- degree in program @ school
   - 奖学金: xxx
 - <其他>
 
 ### Rej
 
-- M.S. in EE @ Stanford
-- ​M.S. in ML @ CMU
+- degree in program @ school
 - <其他>
 
 <!-- > 这部分的学校名和专业名的简称如果比较常见的话可以简称，因为列表可能会很长，如果都写全称的话可能会显得拥挤 -->
 
 ## 科研经历
 
-xxx
+### xx老师课题组 @ xx学校 (mm/yyyy - mm/yyyy)
+
+<详情>
 
 ## 实习经历
 
-- Software Engineer Intern @ eBay Inc. (05/2019 - 08/2019)
+### position @ company (mm/yyyy - mm/yyyy)
+
+<详情>
 
 <!-- > 职称 @ 公司 (开始日期 - 结束日期） -->
 
-xxx
-
 ## 竞赛经历
 
-xxx
+### 成绩 @ 比赛 (mm/yyyy)
+
+<详情>
 
 ## 创业经历
 
-xxx
+### 公司 (mm/yyyy - mm/yyyy)
+
+<详情>
 
 ## 申请心得
 
