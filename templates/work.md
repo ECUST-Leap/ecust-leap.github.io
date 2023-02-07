@@ -57,7 +57,7 @@ Job @ Firm
 
 ## 竞赛经历
 
-### 成绩 @ 比赛 (mm/yyyy - mm/yyyy)
+### 成绩 @ 比赛 (mm/yyyy)
 
 <详情>
 
