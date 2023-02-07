@@ -52,7 +52,7 @@ degree in program @ school
 
 ## 科研经历
 
-### position @ lab (mm/yyyy - mm/yyyy)
+### xx老师课题组 @ xx学校 (mm/yyyy - mm/yyyy)
 
 <详情>
 

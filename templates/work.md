@@ -43,22 +43,29 @@ Job @ Firm
 
 ## 科研经历
 
-- xx校内科研
-- xx暑研
-- xxx发表
+### xx老师课题组 @ xx学校 (mm/yyyy - mm/yyyy)
+
+<详情>
 
 ## 实习经历
 
-- 一段三中一华ibd
-- 一段mbb
+### position @ company (mm/yyyy - mm/yyyy)
+
+<详情>
+
+<!-- > 职称 @ 公司 (开始日期 - 结束日期） -->
 
 ## 竞赛经历
 
-- xxx
+### 成绩 @ 比赛 (mm/yyyy - mm/yyyy)
+
+<详情>
 
 ## 创业经历
 
-- xxx
+### 公司 (mm/yyyy - mm/yyyy)
+
+<详情>
 
 ## 求职心得
 
