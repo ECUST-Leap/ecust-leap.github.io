@@ -9,7 +9,7 @@ const baseUrl = process.env.BASE_URL ?? '/';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '华东理工大学飞跃手册',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Make your leap from ECUST.',
   url: 'https://ecust-leap.github.io',
   baseUrl: baseUrl,
   onBrokenLinks: 'throw',
@@ -26,8 +26,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['en', 'zh-Hans'],
   },
 
   presets: [
