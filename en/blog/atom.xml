@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ecust-leap.github.io/en/blog</id>
+    <title>华东理工大学飞跃手册 Blog</title>
+    <updated>2023-02-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ecust-leap.github.io/en/blog"/>
+    <subtitle>华东理工大学飞跃手册 Blog</subtitle>
+    <icon>https://ecust-leap.github.io/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[bar]]></title>
+        <id>https://ecust-leap.github.io/en/blog/2023/02/05/bar</id>
+        <link href="https://ecust-leap.github.io/en/blog/2023/02/05/bar"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[foo]]></title>
+        <id>https://ecust-leap.github.io/en/blog/2023/02/04/foo</id>
+        <link href="https://ecust-leap.github.io/en/blog/2023/02/04/foo"/>
+        <updated>2023-02-04T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>https://ecust-leap.github.io/en/blog/hello</id>
+        <link href="https://ecust-leap.github.io/en/blog/hello"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello!]]></summary>
+        <content type="html"><![CDATA[<p>Hello!</p>]]></content>
+        <author>
+            <name>Aaron</name>
+            <uri>https://github.com/Yuchen-Wang-SH</uri>
+        </author>
+        <category label="公告" term="公告"/>
+    </entry>
+</feed>
