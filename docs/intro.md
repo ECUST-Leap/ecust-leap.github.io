@@ -19,22 +19,58 @@ slug: /
 
 同时，我们也希望这样的传统能够一直流传下去，去帮助未来更多华理学子实现飞跃梦想。
 
+## 使用方法
+
+### 故事&公告🪧
+
+在「故事」栏，我们将所有前辈们的经验帖进行了分类和整理，在这里你可以看到所有投稿。
+
+在「公告」栏，我们将重要信息进行了单独页面的提取，以便大家获取最新须知和网页进展。
+
+### 按学院查找帖子🔍
+
+在网页左侧⬅️可以看到目录栏，点击不同学院名称可以查看到对应学院的前辈们的上岸经验。
+
+目前只设置有一级目录，后期会根据投稿数量增多设置二级目录（即按照出国、保研、考研和求职的不同分录）。
+
+### 根据关键词搜索帖子🔍
+
+在网页的右上角↗️设置有搜索栏，可以根据想要搜索的关键词，如「专业名称」，「院校名称」，「岗位名称」等检索自己希望搜索的经验帖。
+
+### 根据**Tags**找到同类帖子🏷️
+
+在每篇经验帖下方⬇️，有设置**Tags**栏目，点击对应的标签🏷，将会跳转至归类为该标签下的所有帖子。
+
+PS：标签中的「年份」代表入学年份，不要混淆啦。
+
+### 论坛功能💬
+
+在网页底部，我们设置了评论区，可以登陆Github账号自由发表评论、展开讨论，但请注意言论文明哦。
+
+## 如何投稿✍️
+
+具体请点击网页左侧一级目录**投稿指南**查看并进行相关操作，如有任何问题也欢迎随时在评论区发表。
+
+## 关于我们
+
+飞跃手册2.0最初在2022年4月发起（Launch By 18级张润秋 & 18级周沐融），在2023年2月完成了网页前端的升级（Lead By 15级王雨晨）。这是一个完全用爱发电的团队，随时欢迎有意向参与维护与传承飞跃手册的伙伴一起同行，如你也愿意加入我们，欢迎邮件联系[ecust_leap@163.com](mailto:ecust_leap@163.com)。
+
+### 目前维护者
+
+19级邵帅 & 19级杨千腾
+
+**联系方式**：[**runqiu.zhang@yale.edu**](mailto:runqiu.zhang@yale.edu) & [**ecustyqt@aliyun.com**](mailto:ecustyqt@aliyun.com)
+
+### 历史维护者
+
+王雨晨 & 张润秋 & 周沐融
+
 ## 意见/改进
 
-如果大家有任何意见或者建议欢迎联系[ecust_leap@163.com](mailto:ecust_leap@163.com)
+如果有任何意见或者建议，欢迎联系[ecust_leap@163.com](mailto:ecust_leap@163.com)
 
-GitHub仓库：[paulzrq/Ecust-Leap: test (github.com)](https://github.com/paulzrq/Ecust-Leap)
+GitHub仓库：[https://github.com/paulzrq/Ecust-Leap](https://github.com/ECUST-Leap)
 
-目前维护者：18级张润秋 18级周沐融
-
-联系方式：[**runqiu.zhang@yale.edu**](mailto:runqiu.zhang@yale.edu) & [**zhoumurong@outlook.com**](mailto:zhoumurong@outlook.com)
-
-
-<!-- ## 特别鸣谢
-
-感谢来自江西财经大学的uu特地前来分享：[[保研]-18-狗里斯-国贸@西南财经](https://github.com/paulzrq/Ecust-Leap/tree/main/4保研)
-
-感谢18级露露的万字跨考分享：[[考研]-18-露露-金融专硕@上海财经大学](https://github.com/paulzrq/Ecust-Leap/tree/main/社会与公共管理学院/公共政策系) -->
 
 ## 友情链接
 
