@@ -59,7 +59,7 @@ PS：标签中的「年份」代表入学年份，不要混淆啦。
 
 19级邵帅 & 19级杨千腾
 
-**联系方式**：[**runqiu.zhang@yale.edu**](mailto:runqiu.zhang@yale.edu) & [**ecustyqt@aliyun.com**](mailto:ecustyqt@aliyun.com)
+**联系方式**：[**Oliver.s.shao@outlook.com**](mailto:Oliver.s.shao@outlook.com) & [**ecustyqt@aliyun.com**](mailto:ecustyqt@aliyun.com)
 
 ### 历史维护者
 
