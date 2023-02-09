@@ -1,0 +1,8 @@
+公告 🪧:
+- blog/**/*
+
+投稿 📖:
+- any: ['docs/**/*.md', '!docs/intro.md', '!docs/how-to-contribute.md']
+
+功能 ✨:
+- any: ['**/*.tsx', '.github/**/*']
