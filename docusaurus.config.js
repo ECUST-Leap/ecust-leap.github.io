@@ -83,7 +83,7 @@ const config = {
         title: '华理飞跃',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
