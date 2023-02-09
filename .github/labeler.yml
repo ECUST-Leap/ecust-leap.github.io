@@ -4,5 +4,5 @@
 投稿 📖:
 - any: ['docs/**/*.md', '!docs/intro.md', '!docs/how-to-contribute.md']
 
-新功能 ✨:
-- '**/*.tsx'
+功能 ✨:
+- any: ['**/*.tsx', '.github/**/*']
