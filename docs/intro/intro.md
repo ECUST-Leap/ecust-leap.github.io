@@ -5,6 +5,8 @@ slug: /
 
 # 华东理工大学飞跃手册
 
+<img alt="Alt Text" src={require('./logo_words.png').default} width="40%" />
+
 ## 飞跃手册是什么？
 
 感谢学弟学妹阅读华理飞跃手册2.0。

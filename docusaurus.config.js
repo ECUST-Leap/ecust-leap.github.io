@@ -83,12 +83,12 @@ const config = {
         title: '华理飞跃',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'intro/intro',
             position: 'left',
             label: '故事',
           },
