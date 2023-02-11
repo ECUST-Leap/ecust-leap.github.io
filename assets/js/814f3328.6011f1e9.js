@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkecust_leap_handbook=self.webpackChunkecust_leap_handbook||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"bar","permalink":"/blog/2023/02/05/bar"},{"title":"foo","permalink":"/blog/2023/02/04/foo"},{"title":"Hello","permalink":"/blog/hello"}]}')}}]);

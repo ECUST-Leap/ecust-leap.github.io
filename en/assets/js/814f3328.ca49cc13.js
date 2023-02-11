@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkecust_leap_handbook=self.webpackChunkecust_leap_handbook||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u534e\u7406\u98de\u8dc3\u624b\u518c\u4e0a\u7ebf\u4e86\uff01","permalink":"/en/blog/launch"}]}')}}]);
