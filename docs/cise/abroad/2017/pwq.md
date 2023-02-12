@@ -9,9 +9,6 @@ tags:
   - CS
 description: 尽早准备很关键
 ---
-
-<!-- > `tags` 是用来在文章的最后显示一系列标签，便于读者点击任意标签即可找到所有带相同标签的文章。 -->
-
 # pwq (2017): MSc. HPC @ UoE
 
 <!-- > <名称> (<本科入学年份>)：<去向，尽量简短，因为标题太长就不美观> -->
@@ -108,4 +105,8 @@ caterer.jacket.0q@icloud.com
 
 <!-- <这部分optional> -->
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+## 版权
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="知识共享许可协议" style={{borderWidth: 0}} src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
