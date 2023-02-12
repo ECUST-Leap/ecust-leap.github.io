@@ -1,3 +1,15 @@
+---
+tags:
+  - 出国
+  - 艺术设计与传媒学院
+  - 工业设计
+  - 2015
+  - Imperial College London
+  - Royal College of Art
+  - Innovation Design Engineering
+  - Industrial Design
+description: 现在的生活虽然平淡一些，但是对于设计的热爱并没有消失。
+---
 # Danyi (2015): MSc & MA in IDE @ ICL&RCA
 
 ## 基本背景
