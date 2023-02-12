@@ -100,7 +100,7 @@ High Performance Computing @ University of Edinburgh
 
 ## 致谢
 
-感谢JYH和ZQ，很难忘我们一同学习的经历。感谢[Yuchen](../2015/yuchen.md)学长在迷茫的时候提供了很多建议和信息。
+感谢JYH和ZQ，很难忘我们一同学习的经历。感谢[Yuchen](../2015/yuchen)学长在迷茫的时候提供了很多建议和信息。
 
 ## 联系方式
 
