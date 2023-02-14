@@ -51,6 +51,7 @@
   - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests
 - Markdown语法
   - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- （optional）丰富的人脉
 
 #### Onboarding
 
