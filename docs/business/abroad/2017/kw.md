@@ -18,7 +18,7 @@ description: 圣村犯罪率高并不可怕，学校附近&富人区还是相对
 - Grade
   - Overall GPA: 3.53 / 4.00
 - TOEFL: 102 (25/27/22/27) (R/L/S/W) 
-- GRE: V153 + Q167
+- GRE: V153 + Q167 + W3.0
 
 ## 申请结果
 
