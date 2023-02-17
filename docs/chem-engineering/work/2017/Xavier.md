@@ -78,4 +78,6 @@ Global Investment Research @ Goldman Sachs Hong Kong
 
 ## 联系方式 
 
-如有问题欢迎联系xavierzhang999@163.com talk to me on Linkedin: [Xavier Zhang](https://www.linkedin.com/in/xavierzhang329/)
+如有问题欢迎联系xavierzhang999@163.com 
+
+talk to me on Linkedin: [Xavier Zhang](https://www.linkedin.com/in/xavierzhang329/)

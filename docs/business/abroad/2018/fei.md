@@ -61,6 +61,6 @@ A lot...  DS@HKU, Stat@HKU, DSML@NUS, Stat@NUS
 
 ## 致谢
 
-感谢Paul老师对我的帮助！！！
+感谢[Paul](../../../maths/abroad/2018/paul)老师对我的帮助！！！
 
  
