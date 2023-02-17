@@ -96,12 +96,13 @@ const config = {
           {
             label: '论坛',
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
-            position: 'right',
+            position: 'left',
           },
           {
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
-            label: 'GitHub',
             position: 'right',
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },
