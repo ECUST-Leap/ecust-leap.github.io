@@ -96,7 +96,7 @@ const config = {
           {
             label: '论坛',
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
-            position: 'right',
+            position: 'left',
           },
           {
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
