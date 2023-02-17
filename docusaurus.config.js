@@ -100,8 +100,9 @@ const config = {
           },
           {
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io',
-            label: 'GitHub',
             position: 'right',
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },
