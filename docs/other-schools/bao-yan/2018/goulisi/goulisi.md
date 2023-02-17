@@ -112,7 +112,7 @@ Key：
 
 这是一页自我介绍的demo，供参考。
 
-![case](Image2.png)
+![case](image2.png)
 
 具体的case感觉，供参考。
 
