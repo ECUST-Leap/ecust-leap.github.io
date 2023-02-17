@@ -15,7 +15,7 @@ description: 总之！要相信每个人都会有最适合自己的Offer来！
 
 - Major：Biotechnology
   - Year 3: University of Oxford (Major: Human Science)
-- Grade：GPA 3.74/4.00, Ranking: 1/278（Year1）、2/64（Year2）
+- Grade：GPA 3.74/4.00, Ranking: 1/278（Year1）, 2/64（Year2）
 - TOEFL：111(29/30/25/27)
 - GRE：V162+ Q169+ W3.5
 

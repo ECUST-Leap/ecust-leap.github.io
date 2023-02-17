@@ -83,6 +83,6 @@ tags:
 
 ## 联系方式 
 
-如有问题请先联系Paul
+如有问题请先联系[Paul](../../../maths/abroad/2018/paul)
 
 <!-- optional -->
