@@ -9,7 +9,6 @@ https://ecust-leap.github.io
 
 ## Contributors
 
-[![All Contributors](https://img.shields.io/github/all-contributors/ECUST-Leap/ecust-leap.github.io?color=ee8449&style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
