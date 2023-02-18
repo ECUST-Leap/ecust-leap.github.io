@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ## 稿件格式
 
-为了使每一篇稿子的风格尽量统一，我们提供了一下模板供你选择与参考：
+为了使每一篇稿子的风格尽量统一，我们提供了以下模板供你选择与参考：
 - [出国](https://github.com/ECUST-Leap/ecust-leap.github.io/blob/main/templates/abroad.md)
 - [考研](https://github.com/ECUST-Leap/ecust-leap.github.io/blob/main/templates/kao_yan.md)
 - [保研](https://github.com/ECUST-Leap/ecust-leap.github.io/blob/main/templates/bao_yan.md)
