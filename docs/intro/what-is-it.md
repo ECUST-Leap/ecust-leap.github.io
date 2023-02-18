@@ -22,15 +22,11 @@ title: 引言
 
 同时，我们也希望这样的传统能够一直流传下去，去帮助未来更多华理学子实现飞跃梦想。
 
-## 如何投稿 ✍️
-
-具体请点击网页左侧一级目录**投稿指南**查看并进行相关操作，如有任何问题也欢迎随时在评论区发表。
-
 ## 意见/改进
 
-如果有任何意见或者建议，欢迎联系[ecust_leap@163.com](mailto:ecust_leap@163.com)
+如果有任何意见或者建议，欢迎联系：[ecust_leap@163.com](mailto:ecust_leap@163.com)
 
-GitHub仓库：[https://github.com/ECUST-Leap/](https://github.com/ECUST-Leap/)
+GitHub仓库：https://github.com/ECUST-Leap/ecust-leap.github.io
 
 
 ## 友情链接
