@@ -1,4 +1,5 @@
 {
   "label": "华东理工大学飞跃手册",
-  "position": 1
+  "position": 1,
+  "collapsible": false
 }
