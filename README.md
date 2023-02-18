@@ -1,6 +1,6 @@
 # 华东理工大学飞跃手册
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 https://ecust-leap.github.io
@@ -21,6 +21,7 @@ https://ecust-leap.github.io
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pvvq"><img src="https://avatars.githubusercontent.com/u/57176977?v=4?s=100" width="100px;" alt="pwq"/><br /><sub><b>pwq</b></sub></a><br /><a href="#content-pvvq" title="Content">🖋</a> <a href="#ideas-pvvq" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/paulzrq"><img src="https://avatars.githubusercontent.com/u/68681350?v=4?s=100" width="100px;" alt="paulzrq"/><br /><sub><b>paulzrq</b></sub></a><br /><a href="#content-paulzrq" title="Content">🖋</a> <a href="https://github.com/ECUST-Leap/ecust-leap.github.io/commits?author=paulzrq" title="Documentation">📖</a> <a href="#ideas-paulzrq" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-paulzrq" title="Maintenance">🚧</a> <a href="#projectManagement-paulzrq" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Muro967"><img src="https://avatars.githubusercontent.com/u/103167971?v=4?s=100" width="100px;" alt="Muro967"/><br /><sub><b>Muro967</b></sub></a><br /><a href="#content-Muro967" title="Content">🖋</a> <a href="https://github.com/ECUST-Leap/ecust-leap.github.io/commits?author=Muro967" title="Documentation">📖</a> <a href="#ideas-Muro967" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Muro967" title="Maintenance">🚧</a> <a href="#projectManagement-Muro967" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JianAN1999"><img src="https://avatars.githubusercontent.com/u/118014310?v=4?s=100" width="100px;" alt="JianAN1999"/><br /><sub><b>JianAN1999</b></sub></a><br /><a href="#content-JianAN1999" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
