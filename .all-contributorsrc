@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Muro967",
+      "name": "Muro967",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103167971?v=4",
+      "profile": "https://github.com/Muro967",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ecust-leap.github.io",
+  "projectOwner": "ECUST-Leap"
+}
