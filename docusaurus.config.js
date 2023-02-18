@@ -88,7 +88,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro/what-is-it',
+            docId: 'intro/what-is-it/what-is-it',
             position: 'left',
             label: '故事',
           },
