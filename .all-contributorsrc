@@ -41,6 +41,42 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "pvvq",
+      "name": "pwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57176977?v=4",
+      "profile": "https://github.com/pvvq",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "paulzrq",
+      "name": "paulzrq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68681350?v=4",
+      "profile": "https://github.com/paulzrq",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "Muro967",
+      "name": "Muro967",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103167971?v=4",
+      "profile": "https://github.com/Muro967",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
