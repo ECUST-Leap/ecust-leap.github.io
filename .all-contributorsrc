@@ -31,6 +31,16 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "Qiying-Hong",
+      "name": "Qiying-Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113129569?v=4",
+      "profile": "https://github.com/Qiying-Hong",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
