@@ -1,4 +1,7 @@
 # 华东理工大学飞跃手册
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 https://ecust-leap.github.io
 
@@ -7,6 +10,21 @@ https://ecust-leap.github.io
 ## Contributors
 
 [![All Contributors](https://img.shields.io/github/all-contributors/ECUST-Leap/ecust-leap.github.io?color=ee8449&style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://yuchenwang.tech/"><img src="https://avatars.githubusercontent.com/u/17931662?v=4?s=100" width="100px;" alt="Yuchen Wang"/><br /><sub><b>Yuchen Wang</b></sub></a><br /><a href="https://github.com/ECUST-Leap/ecust-leap.github.io/commits?author=Yuchen-Wang-SH" title="Code">💻</a> <a href="#content-Yuchen-Wang-SH" title="Content">🖋</a> <a href="https://github.com/ECUST-Leap/ecust-leap.github.io/commits?author=Yuchen-Wang-SH" title="Documentation">📖</a> <a href="#ideas-Yuchen-Wang-SH" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Yuchen-Wang-SH" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-Yuchen-Wang-SH" title="Maintenance">🚧</a> <a href="#projectManagement-Yuchen-Wang-SH" title="Project Management">📆</a> <a href="#tool-Yuchen-Wang-SH" title="Tools">🔧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
