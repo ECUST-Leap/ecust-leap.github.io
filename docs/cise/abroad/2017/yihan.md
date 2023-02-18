@@ -16,7 +16,7 @@ description: 当惯了大雄，也想当一次哆啦A梦吧！
 - Grade
   - Overall GPA: 3.7+ / 4.0
   - Major GPA: 3.8+ / 4.0
-- WES: 无
+- WES: 3.78
 - 雅思：6.5 (6.5/6.5/W6/6.5) (2021.8.5)
 - GRE: 无
 
