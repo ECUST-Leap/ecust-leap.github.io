@@ -1,0 +1,32 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Yuchen-Wang-SH",
+      "name": "Yuchen Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17931662?v=4",
+      "profile": "https://yuchenwang.tech/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ecust-leap.github.io",
+  "projectOwner": "ECUST-Leap"
+}
