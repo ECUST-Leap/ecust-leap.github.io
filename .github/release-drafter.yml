@@ -1,5 +1,9 @@
 name-template: 'v$RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'
+include-labels:
+  - '公告 🪧'
+  - '投稿 📖'
+  - '功能 ✨'
 categories:
   - title: '🪧 新公告'
     label: '公告 🪧'
@@ -25,3 +29,5 @@ version-resolver:
   default: patch
 template: |
   # 本次更新内容
+
+  $CHANGES
