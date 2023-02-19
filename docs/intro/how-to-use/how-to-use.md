@@ -57,9 +57,15 @@ https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
 
 有任何想要聊的内容欢迎大家发帖。
 
-## 推送更新（beta）
+## 推送更新
 
 ### 电子邮件
+
+:::caution
+
+此功能仍在测试阶段。欢迎试用并告诉我们使用体验！
+
+:::
 
 如果你想要在我们有新投稿/新功能发布后收到一封邮件通知，请：
 1. 进入 https://github.com/ECUST-Leap/ecust-leap.github.io
