@@ -20,6 +20,7 @@ slug: /about-us
 - 邵帅（2019级）
   - **Oliver.s.shao@outlook.com**
 - 洪琦瑛（2018级）
+  - **qiyingho@umich.edu**
 - 杨千腾（2019级）
   - **ecustyqt@aliyun.com**
 
