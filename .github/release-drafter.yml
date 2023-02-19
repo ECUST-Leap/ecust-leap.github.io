@@ -28,6 +28,4 @@ version-resolver:
       - '投稿 📖'
   default: patch
 template: |
-  # 本次更新内容
-
   $CHANGES
