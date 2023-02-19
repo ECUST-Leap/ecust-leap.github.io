@@ -93,7 +93,7 @@ N/A
 1. 选校
 1. 如何规划
 1. 标化考试
-1. DIY or中介
+1. DIY or 中介
 1. 大家一起来吃瓜——Purdue、NEU、UPitt带给我的offer PTSD
 1. 申请季的一点回忆
 
