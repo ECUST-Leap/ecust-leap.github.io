@@ -31,4 +31,4 @@ title: 引言
 如果有任何意见或者建议，欢迎
 
 - 在 [论坛](https://github.com/ECUST-Leap/ecust-leap.github.io/discussions) 发帖讨论（需要GitHub账号）
-- 电子邮件联系：[ecust_leap@163.com](mailto:ecust_leap@163.com)
+- 电子邮件联系：**ecust_leap@163.com**

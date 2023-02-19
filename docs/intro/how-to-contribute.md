@@ -36,7 +36,7 @@ slug: /how-to-contribute
 
 ### 无 Git 使用经验
 
-请将你的文稿文件发送至邮箱：[ecust_leap@163.com](mailto:ecust_leap@163.com)，并且：
+请将你的文稿文件发送至邮箱：**ecust_leap@163.com**，并且：
 - 将邮件标题设为`投稿/修改-姓名-院系-专业-20xx级`
 - 如果愿意的话，可以附上微信号，方便我们团队与你联系
 

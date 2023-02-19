@@ -18,11 +18,11 @@ slug: /about-us
 
 ### 编辑
 - 邵帅（2019级）
-  - [**Oliver.s.shao@outlook.com**](mailto:Oliver.s.shao@outlook.com)
+  - **Oliver.s.shao@outlook.com**
 - 洪琦瑛（2018级）
 - 杨千腾（2019级）
-  - [**ecustyqt@aliyun.com**](mailto:ecustyqt@aliyun.com)
+  - **ecustyqt@aliyun.com**
 
 ## 加入我们
 
-这是一个完全用爱发电的团队，随时欢迎有意向参与维护与传承飞跃手册的伙伴一起同行。如你愿意加入我们，欢迎邮件联系[ecust_leap@163.com](mailto:ecust_leap@163.com)。
+这是一个完全用爱发电的团队，随时欢迎有意向参与维护与传承飞跃手册的伙伴一起同行。如你愿意加入我们，欢迎邮件联系**ecust_leap@163.com**。
