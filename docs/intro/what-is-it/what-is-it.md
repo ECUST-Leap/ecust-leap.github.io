@@ -32,11 +32,3 @@ title: 引言
 
 - 在 [论坛](https://github.com/ECUST-Leap/ecust-leap.github.io/discussions) 发帖讨论（需要GitHub账号）
 - 电子邮件联系：[ecust_leap@163.com](mailto:ecust_leap@163.com)
-
-## 友情链接
-
-- 商科申请论坛 [**https://www.chasedream.com/**](https://www.chasedream.com/)
-- 一亩三分地--北美申请论坛 [**http://www.1point3acres.com/**](http://www.1point3acres.com/)
-- 美国本土申请结果汇报论坛 [**https://www.thegradcafe.com/**](https://www.thegradcafe.com/)
-- Grantome 美国教授科研经费查询 [**https://grantome.com/search**](https://grantome.com/search)
-- NIH 美国教授科研经费查询 [**https://report.nih.gov/**](https://report.nih.gov/)
