@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
-title: 引言
+title: 前言
 ---
 
 # 华东理工大学飞跃手册
