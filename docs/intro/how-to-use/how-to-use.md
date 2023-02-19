@@ -57,3 +57,28 @@ https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
 
 有任何想要聊的内容欢迎大家发帖。
 
+## 推送更新（beta）
+
+### 电子邮件
+
+如果你想要在我们有新投稿/新功能发布后收到一封邮件通知，请：
+1. 进入 https://github.com/ECUST-Leap/ecust-leap.github.io
+2. 在界面右上角，点击`Watch`
+
+![watch](watch.jpeg)
+
+3. 点击`Custom`，并勾选`Releases`以及`Discussions`。
+
+![custom](custom.jpeg)
+
+:::tip
+
+如果你想表达对我们的喜爱和支持，请顺手点击一下`Star`！
+
+:::
+
+:::note
+
+如果你不想在论坛有更新时收到邮件通知，请不用勾选`Discussions`。
+
+:::
