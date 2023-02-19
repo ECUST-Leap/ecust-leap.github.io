@@ -10,7 +10,7 @@ slug: /how-to-use
 
 在「公告」栏，我们将重要信息进行了单独页面的提取，以便大家获取最新须知和网页进展。
 
-## 在「目录」中找到帖子 🔍
+## 在「目录」中找到帖子 👀
 
 在网页左侧⬅️可以看到目录栏，点击不同学院名称可以查看到对应学院的前辈们的上岸经验。
 
@@ -57,3 +57,34 @@ https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
 
 有任何想要聊的内容欢迎大家发帖。
 
+## 推送更新
+
+### 电子邮件
+
+:::caution
+
+此功能仍在测试阶段。欢迎试用并告诉我们使用体验！
+
+:::
+
+如果你想要在我们有新投稿/新功能发布后收到一封邮件通知，请：
+1. 进入 https://github.com/ECUST-Leap/ecust-leap.github.io
+2. 在界面右上角，点击`Watch`
+
+![watch](watch.jpeg)
+
+3. 点击`Custom`，并勾选`Releases`以及`Discussions`。
+
+![custom](custom.jpeg)
+
+:::tip
+
+如果你想表达对我们的喜爱和支持，请顺手点击一下`Star`！
+
+:::
+
+:::note
+
+如果你不想在论坛有更新时收到邮件通知，请不用勾选`Discussions`。
+
+:::
