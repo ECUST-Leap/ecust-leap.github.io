@@ -14,7 +14,7 @@ description: 善用网络资源打赢信息战
 ## 基本背景
 
 - Major: 信息与计算科学
-- Grade:93.13/100, Ranking: 1/90
+- Grade: 93.13/100, Ranking: 1/90
 - 语言成绩：CET-6 500+
 - 荣誉奖励：国家奖学金
 - 专业技能：Matlab，Python等常用编程语言
