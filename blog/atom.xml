@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecust-leap.github.io/blog</id>
     <title>华东理工大学飞跃手册 Blog</title>
-    <updated>2023-02-16T00:00:00.000Z</updated>
+    <updated>2023-02-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecust-leap.github.io/blog"/>
     <subtitle>华东理工大学飞跃手册 Blog</subtitle>
     <icon>https://ecust-leap.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[在考研成绩发布日上线时一些想说的话]]></title>
+        <id>https://ecust-leap.github.io/blog/2023/02/21/kaoyan-scores-out</id>
+        <link href="https://ecust-leap.github.io/blog/2023/02/21/kaoyan-scores-out"/>
+        <updated>2023-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[正值考研初试出分日，我们想同时宣布一件「大事」。]]></summary>
+        <content type="html"><![CDATA[<p>正值考研初试出分日，我们想同时宣布一件「大事」。</p><p>我们是全新的华理飞跃team，一个自发组织收集并分享华理毕业校友毕业去向及经验帖的团队，欢迎访问官网 ——</p><p><a href="https://ecust-leap.github.io/" target="_blank" rel="noopener noreferrer">https://ecust-leap.github.io/</a></p><p>发布的时间点刚好就在今日，考研分数公布的日子。</p><p>今天，或许你的努力被看见，收获了令你心满意足的初试分数，希望我们的恭喜也能增添你的一分快乐，也在分享中为你的最终上岸助力。</p><p>又或许你的努力没能被分数所证明，陷入了灰心、彷徨，我们希望能以此为你重振旗鼓贡献一份力量。</p><p>无论如何，前进之路总要继续，分数颇佳者需要准备复试，分数略不尽如人意者需要找寻新的出路，这，就是我们发起飞跃手册的初衷。</p><p>在这个网站上，有许多不同去向的华理前辈们分享了他们的上岸经验，或许是成功保研或者是考研至了心仪的院校，或许是考研出分失利后调剂成功上岸，也有许多出国或求职的前辈分享经验，如果你想完成飞跃，欢迎点击。</p><p>挫折只算作坎坷，成功也只是沿岸偶遇的风景，它们都远不是生活的终点。</p><p>在升学路上，我们曾因资源匮乏、心态焦虑而到处碰壁，也曾因此对其他高校拥有的飞跃手册羡慕不已。在毕业后，我们不希望过去遗憾在你们身上重演，于是便有了这份礼物。</p><p>希望你能在其中收获所需的信息，将它分享给周围同样需要它的同学、朋友，同样，我们也欢迎优秀的你在毕业后分享自己的成功经验回馈后辈。如果你有意向与我们同行或者是有任何建议，欢迎联系<a href="mailto:ecust_leap@163.com" target="_blank" rel="noopener noreferrer">ecust_leap@163.com</a>。</p><p>祝你的飞跃一切顺利，加油。</p>]]></content>
+        <author>
+            <name>Muro</name>
+            <uri>https://ecust-leap.github.io/social-public-mgm/work/2018/muro</uri>
+        </author>
+        <category label="公告" term="公告"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长期向所有华理在读学生/校友征稿]]></title>
         <id>https://ecust-leap.github.io/blog/2023/02/16/call-for-stories</id>
