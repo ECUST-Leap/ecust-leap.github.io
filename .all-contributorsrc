@@ -1,0 +1,106 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Yuchen-Wang-SH",
+      "name": "Yuchen Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17931662?v=4",
+      "profile": "https://github.com/Yuchen-Wang-SH",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "tool"
+      ]
+    },
+    {
+      "login": "paulzrq",
+      "name": "paulzrq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68681350?v=4",
+      "profile": "https://github.com/paulzrq",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "Muro967",
+      "name": "Muro967",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103167971?v=4",
+      "profile": "https://github.com/Muro967",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "Oliver20001031",
+      "name": "Oliver20001031",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123611315?v=4",
+      "profile": "https://github.com/Oliver20001031",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Qiying-Hong",
+      "name": "Qiying-Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113129569?v=4",
+      "profile": "https://github.com/Qiying-Hong",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "pvvq",
+      "name": "pwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57176977?v=4",
+      "profile": "https://github.com/pvvq",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "JianAN1999",
+      "name": "JianAN1999",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118014310?v=4",
+      "profile": "https://github.com/JianAN1999",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "yaodayuan",
+      "name": "Yao Yuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17263346?v=4",
+      "profile": "http://yaoyuan00.github.io",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ecust-leap.github.io",
+  "projectOwner": "ECUST-Leap"
+}
