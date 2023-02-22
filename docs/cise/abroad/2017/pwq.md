@@ -107,6 +107,6 @@ caterer.jacket.0q@icloud.com
 
 ## 版权
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> <!-- markdownlint-disable MD033 -->
   <img alt="知识共享许可协议" style={{borderWidth: 0}} src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a>

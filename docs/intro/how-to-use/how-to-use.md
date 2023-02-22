@@ -78,11 +78,11 @@ PS：标签中的，以及目录和故事标题中出现的「年份」代表入
 1. 进入 <https://github.com/ECUST-Leap/ecust-leap.github.io>
 2. 在界面右上角，点击`Watch`
 
-![watch](watch.jpeg)
+   ![watch](watch.jpeg)
 
 3. 点击`Custom`，并勾选`Releases`以及`Discussions`。
 
-![custom](custom.jpeg)
+   ![custom](custom.jpeg)
 
 :::tip
 
