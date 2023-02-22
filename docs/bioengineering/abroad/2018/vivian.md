@@ -37,7 +37,7 @@ MPH in Biostatistics @ Yale University（暂定）
 
 ### Waitlist
 
-- MS in Computational Biology and Quantitative Genetics @ Harvard 
+- MS in Computational Biology and Quantitative Genetics @ Harvard
 - MS in Community Health and Prevention Research @ Stanford University
 - MS in Biostatistics @ Brown University
 
