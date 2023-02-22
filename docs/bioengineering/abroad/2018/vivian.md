@@ -27,19 +27,19 @@ MPH in Biostatistics @ Yale University（暂定）
 
 ### Offer
 
--	MPH in Biostatistics @ Yale University (20,000 dollar)
--	Mater of Biostatistics @ Duke University (5,000 dollar)
--	MSPH in Biostatistics @ Emory University
--	Master of Biotechnology @ University of Pennsylvania
--	Master of Biotechnology @ Northwestern University
--	MS in Biotechnology @ New York University
--	MS in Applied Biosciences and Biotechnology @ Imperial College       London
+- MPH in Biostatistics @ Yale University (20,000 dollar)
+- Mater of Biostatistics @ Duke University (5,000 dollar)
+- MSPH in Biostatistics @ Emory University
+- Master of Biotechnology @ University of Pennsylvania
+- Master of Biotechnology @ Northwestern University
+- MS in Biotechnology @ New York University
+- MS in Applied Biosciences and Biotechnology @ Imperial College       London
 
 ### Waitlist
 
--	MS in Computational Biology and Quantitative Genetics @ Harvard	
--	MS in Community Health and Prevention Research @ Stanford University
--	MS in Biostatistics @ Brown University
+- MS in Computational Biology and Quantitative Genetics @ Harvard 
+- MS in Community Health and Prevention Research @ Stanford University
+- MS in Biostatistics @ Brown University
 
 ### Rej
 
@@ -49,15 +49,15 @@ MPH in Biostatistics @ Yale University（暂定）
 
 ## 科研经历
 
-3校内科研 
+3校内科研
 
-* Development of Microalgae Oral Vaccine；
-* IGEM：Fast Detection of Covid-19；
-* USRP：Research on the Toxicity of *Edwardsiella tarda*）
+- Development of Microalgae Oral Vaccine；
+- IGEM：Fast Detection of Covid-19；
+- USRP：Research on the Toxicity of *Edwardsiella tarda*）
 
-1暑研 
+1暑研
 
-* Research on Infantile autism, Translational Medicine Research Center for Child Development and Disease（三甲医院）
+- Research on Infantile autism, Translational Medicine Research Center for Child Development and Disease（三甲医院）
 
 ## 实习经历
 
@@ -98,5 +98,3 @@ TOEFL和GRE都是在英国考的，应该是全英的语言环境和上学时被
 ## 联系方式
 
 如有问题欢迎联系 haochen_qiao@outlook.com
-
- 

@@ -27,20 +27,22 @@ description: 如果你比较懒散，我的攻略可能适合你，可以批判�
 M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
 ### Offer
-  - M.S. in ECE @ CMU (21 Spring)
-  - ​M.S. in CS @ UVA (20 Fall)
-	- 奖学金: $2000
-  - ​M.S. in CS @ WUSTL (20 Fall)
-  - ​M.S. in CS @ NEU (20 Fall)
+
+- M.S. in ECE @ CMU (21 Spring)
+- ​M.S. in CS @ UVA (20 Fall)
+  - 奖学金: $2000
+- ​M.S. in CS @ WUSTL (20 Fall)
+- ​M.S. in CS @ NEU (20 Fall)
 
 ### Rej
-  - ​M.S. in ECE @ CMU (20 Fall)
-  - M.Eng. in CS @ Cornell (20 Fall)
-  - M.S. in CS @ Duke (20 Fall)
-  - M.S. in CS @ Brown (20 Fall)
-  - M.S. in CS @ Northwestern University (20 Fall)
-  - M.S. in CS @ Rice (20 Fall)
-  - M.S. in CS @ University of Chicago (20 Fall)
+
+- ​M.S. in ECE @ CMU (20 Fall)
+- M.Eng. in CS @ Cornell (20 Fall)
+- M.S. in CS @ Duke (20 Fall)
+- M.S. in CS @ Brown (20 Fall)
+- M.S. in CS @ Northwestern University (20 Fall)
+- M.S. in CS @ Rice (20 Fall)
+- M.S. in CS @ University of Chicago (20 Fall)
 
 ## 科研经历
 
@@ -75,15 +77,19 @@ M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 我认为软背景提升有三种不同的途径：科研，求职和海外交流经历。
 
 ### 科研
+
 大三尝试做了大创之后发现我对于科研没有热忱，水了一篇论文之后果断放弃。而且我认为Master项目相对不是这么看中科研经历，但如果你发现科研很适合自己并且对它抱有强烈的兴趣，一段出色的科研经历还是挺加分的。不过我身边对科研有热忱的同学都申请Phd了，当然Phd申请难度也更大。
 
 ### 求职
+
 大一暑假参加了ACM集训，大二暑假专心准备托福，大三暑假需要提前出发去美国，所以我在本科期间是没有任何实习经历的。建议学有余力的同学可以把托福/GRE的备考穿插在学期中进行，这样可以多出暑期实习的时间。虽然实习对于申请Master项目帮助有限，但一段精彩的国内大厂实习可以降低很多在未来寻找美国实习的难度。
 
 ### 海外交流
+
 信息学院还是很多海外交流机会的,具体可以看“国际交流合作处”的公告。我当时选择了UIC的交换项目，因为我只申请美国大学，当然如果想要去英国，也有谢菲尔德大学的交换项目。如果你在大三的春季学期已经有80分以上的托福成绩是可以免UIC语言测试的，不过UIC的语言考试也很简单，对于未来想要出国的同学来说不成问题。UIC是提供3+1或者3+2项目的，3+1项目就是标准的海外交换，大四去美国交换，拿华理的学位毕业。3+2就是大四开始去UIC读两年，直接拿UIC的Master学位，对于以后要读Phd的同学来说是很划算的。另外海外交流的好处就是帮助你提前适应美国的教学环境以及可以尝试向教授要推荐信，我当时申请用到的三封推荐信中有两封是来自UIC的教授。
 
 ### 申请季
+
 申请季的时候其实大部分准备工作都已经做好了。主要想聊一下选校，我一共就申了10所学校，并且除了CMU是ECE以外其他全冲CS，除了NEU没有保底校。对于我这个中规中矩的背景来说，可谓相当激进。这样做的好处是无论哪个学校AD都可以接受，不存在明明这个学校录了但我不想去的尴尬情况，当然坏处显而易见，就是可能“全聚德”。
 
 我主要申请的是20Fall入学，也接了UVA的offer。但当时由于疫情，我defer了这个offer。后面收到CMU ECE的Rej，但是CMU鼓励我再次申请春季学期，并且免申请费。于是我重新申请了CMU的春季学期，并且成功拿到了offer。但这是一种特殊情况，不具有普适性，所以不要把希望寄托在这种小概率事件上，努力提升自己的背景才是真正应该做的。
@@ -94,6 +100,6 @@ M.S. in Electrical and Computer Engineering @ Carnegie Mellon University
 
 ## 联系方式
 
-Linkedin: https://www.linkedin.com/in/heng-w/
+Linkedin: <https://www.linkedin.com/in/heng-w/>
 
 Email: hengw@andrew.cmu.edu

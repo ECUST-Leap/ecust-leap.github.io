@@ -23,7 +23,8 @@ description: 为此，你一定要和他们战斗到底！
 
 RD@第四范式
 
-### 录取结果：
+### 录取结果
+
 1. ​RD@拼多多
 2. ​RD@华为
 3. RD@依图科技
@@ -95,7 +96,7 @@ RD
 
 ## 联系方式
 
-欢迎访问我的主页 https://www.yuque.com/yaoyuanyy/
+欢迎访问我的主页 <https://www.yuque.com/yaoyuanyy/>
 
 ## 其他
 

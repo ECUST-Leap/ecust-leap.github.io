@@ -27,13 +27,13 @@ industry 4.0 @ NUS
 
 ### Offer
 
-- ​	MGM @ HKU
-- ​	DEM @ UCL
+- ​ MGM @ HKU
+- ​ DEM @ UCL
 
 ### Rej
 
-- ​	Marketing @ NTU
-- ​	MIM @ IC（ye..一共只投了五所）
+- ​ Marketing @ NTU
+- ​ MIM @ IC（ye..一共只投了五所）
 
 ## 科研经历
 
@@ -72,4 +72,5 @@ GRE：背单词我用的墨墨背单词，其他的只需上b站搜索“皇冠G
 在选校申请当中，感谢荆老师以及学长学姐对我的引导和帮助！
 
 ## 联系方式
+
 如有问题欢迎联系（if possible）3324927287@qq.com

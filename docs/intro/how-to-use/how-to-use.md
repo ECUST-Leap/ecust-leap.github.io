@@ -59,7 +59,7 @@ PS：标签中的，以及目录和故事标题中出现的「年份」代表入
 
 ## 论坛 🥳
 
-https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
+<https://github.com/ECUST-Leap/ecust-leap.github.io/discussions>
 
 有任何想要聊的内容欢迎大家发帖。
 
@@ -74,7 +74,8 @@ https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
 :::
 
 如果你想要在我们有新投稿/新功能发布后收到一封邮件通知，请：
-1. 进入 https://github.com/ECUST-Leap/ecust-leap.github.io
+
+1. 进入 <https://github.com/ECUST-Leap/ecust-leap.github.io>
 2. 在界面右上角，点击`Watch`
 
 ![watch](watch.jpeg)
