@@ -107,3 +107,8 @@ Industrial Design Engineering Assistant (intern) @ designaffairs GmbH (09/2018 �
 
 邮箱：danyi.shen@network.rca.ac.uk
 
+
+
+
+
+
