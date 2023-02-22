@@ -59,7 +59,6 @@ Global Investment Research @ Goldman Sachs Hong Kong
 - 二轮面试，墨尔本的ED，主要聊CV的内容，fit question和motivation
 - 12月 三轮面试，HK的MD，闲聊，motivation，markets news，股票和行业都有cover到，一周后收到offer call。
 
-
 ## 一些小建议
 
 - 申请要早，越早越好，尤其是香港的部门，最好八月就把网申都投递出去。
@@ -76,8 +75,8 @@ Global Investment Research @ Goldman Sachs Hong Kong
 
 不要给自己设限，祝大家好运啦哈哈哈
 
-## 联系方式 
+## 联系方式
 
-如有问题欢迎联系xavierzhang999@163.com 
+如有问题欢迎联系xavierzhang999@163.com
 
 talk to me on Linkedin: [Xavier Zhang](https://www.linkedin.com/in/xavierzhang329/)

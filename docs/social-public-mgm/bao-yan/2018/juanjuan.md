@@ -15,7 +15,7 @@ description: 感谢专业金字招牌，大胆进行基础情况分析
 
 - Major: 社会工作
 - Grade: GPA 3.72/4.00, Ranking: 3/40
-- Certificate: 
+- Certificate:
   - CET-6（588）
   - CET-4（627）
   - 托业（885）

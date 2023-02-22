@@ -26,18 +26,18 @@ MPH in Biostatistics @ Columbia University
 
 ### Offer
 
-- ​	MPH in Biostatistics @ Columbia University
-- ​	MPH in Biostatistics @ New York University
-- ​	MS in Biostatistics @ University of California, San Diego
-- ​	MS in Public Health Data Science @ University of South California
-- ​	MS in Bioinformatics @ Boston University 15k 
-- ​	MSc in Biomedical Data Science @ Nanyang Technological University
-- ​	MS in Quantitative Biology and Bioinformatics @ CMU
+- ​ MPH in Biostatistics @ Columbia University
+- ​ MPH in Biostatistics @ New York University
+- ​ MS in Biostatistics @ University of California, San Diego
+- ​ MS in Public Health Data Science @ University of South California
+- ​ MS in Bioinformatics @ Boston University 15k
+- ​ MSc in Biomedical Data Science @ Nanyang Technological University
+- ​ MS in Quantitative Biology and Bioinformatics @ CMU
 
 ### Rej
 
-- ​	MSc in Bioinformatics and Theoretical Systems Biology @ Imperial College London
-- ​	MS in Biostatistics @ Brown University
+- ​ MSc in Bioinformatics and Theoretical Systems Biology @ Imperial College London
+- ​ MS in Biostatistics @ Brown University
 
 ## 科研经历
 
@@ -83,8 +83,6 @@ GRE多背单词，多做机经；另外GRE考试的时候是很可能遇到原�
 
 **学信网和WES认证：**对于申请美研公卫项目的小伙伴，SOPHAS系统需要海外学生对成绩单进行WES认证，WES认证又需要学信网提供的报告。尽量在大三下出了所有成绩之后就尽快去认证，如果9月赶上认证高峰期的话可能要等上一个多月。
 
- 
-
 **撰写文书：**文书是申请很重要的一部分，需要反复琢磨推敲。我的建议是先可以用中文梳理清楚自己要在文书里表达的内容。对于ps/sop，表达的内容包括自己**对这个项目和行业的热爱和决心**，自己从过去的经历获得了什么，过去的经历中自己全方位能力的体现等；对于推荐信，花式夸的时候最好能用**具体的事件**佐证。这里指路一下微博@DIY申请辅导员，我从这里学到了不少写文书思路。
 
 中文梳理好思路之后可以自己先用英文写一遍初稿，用Grammarly订正语法和表达错误。之后可以在闲鱼，或者Fiverr的native speaker帮忙修改。
@@ -102,5 +100,3 @@ GRE多背单词，多做机经；另外GRE考试的时候是很可能遇到原�
 ## 致谢
 
 感谢保罗老师搭建的这个非常棒的平台！希望在这个牛人辈出的申请季，这样一份普通人的申请经验可以帮到大家:)
-
- 

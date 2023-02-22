@@ -31,8 +31,8 @@ Master of Social science in Communication @ National University of Singapore
 - Master of Social science in Mass Communication @ The University of Melbourne
 - Integrated marketing communication @ Northwestern University
 
-
 ### Rej
+
 - New York University
 - Columbia University
 - University of Southern California
@@ -73,6 +73,6 @@ Master of Social science in Communication @ National University of Singapore
 
 ## 联系方式
 
-如有问题欢迎联系 
+如有问题欢迎联系
 
 Wx：zsy071042

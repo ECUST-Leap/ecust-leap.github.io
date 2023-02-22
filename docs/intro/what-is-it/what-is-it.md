@@ -4,7 +4,7 @@ slug: /
 title: 前言
 ---
 
-# 华东理工大学飞跃手册
+# 华东理工大学飞跃手册 <!-- markdownlint-disable MD025 -->
 
 <img alt="Alt Text" src={require('./logo_words.png').default} width="40%" />
 

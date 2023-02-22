@@ -30,10 +30,10 @@ M.S. in Electrical and Computer Engineering (track: Software Engineering and Sys
 
 - ECE-SES @ UT-Austin
 - ECE MEng @ UMich
-- MECE @ Rice 
+- MECE @ Rice
   - $15000 奖
 - CE @ USC
-- ECE @ UF 
+- ECE @ UF
   - $4500 奖
 - ECE @ Purdue
 - ECE @ NEU
@@ -116,10 +116,11 @@ N/A
 （其中最关键的点是：项目的质量 > 数量，就是你申请的每一个项目必须都是你想去的。即每个保底项目也至少要有一个吸引你的理由，而不是为了缓解失学焦虑盲目添加的项目！）
 
 简而言之：
+
 1. 提前把项目研究透，舍去不喜欢、不合适的项目（如何研究项目，本章节的“B：如何选校”部分会讲）
 2. 只要保底保得住，冲刺和彩票放心大胆多去冲！（你大学拼了三年，还熬过了托福/雅思、GRE/GMAT的折磨，临门一脚几百块钱交个申请费买个机会的时候怂了的话，你问问自己对得起自己之前的付出吗？）
 
-##### 我的申请结果：
+##### 我的申请结果
 
 保底全中（保底保得住）
 
@@ -243,7 +244,7 @@ No, Absolutely not！！！坦诚讲，ECE-SES @ UT-Austin真的是远远超出�
 2. TOEFL家考推出的时候，分析了一波局势后，决定转考IELTS（事实证明这个决定一定程度上挽救了我的申请季）
 
 > 最后，在我看来，语言和专业技能对于找工的重要性，可以类比成申请中语言和GPA的关系，既然这是对你未来十分重要的技能，为什么不早日把它搞定呢？——来自一个申请季被语言折磨到疯的英语菜鸡的忏悔
-                                   
+
 ### talk about DIY or 中介
 
 这里分成两部分：一是A：DIY，二是B：中介
@@ -266,6 +267,7 @@ No, Absolutely not！！！坦诚讲，ECE-SES @ UT-Austin真的是远远超出�
 1. 牛人可以做到“一校一文书”，甚至“一项目一文书”
 
 给打算DIY的小伙伴推荐几个软件：
+
 1. 一亩三分地
 1. DeepL
 1. Grammarly
@@ -379,7 +381,7 @@ UT-Austin来offer的时候，中介老师在那卧槽，我心想不会是系统
 
 ### 一亩三分地原帖链接
 
-https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=892753
+<https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=892753>
 
 ## 致谢
 
