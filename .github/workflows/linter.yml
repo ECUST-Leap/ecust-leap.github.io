@@ -13,9 +13,8 @@ jobs:
         with:
           fetch-depth: 0
       - name: Lint Code Base
-        uses: github/super-linter/slim@v4
-        env:
-          VALIDATE_ALL_CODEBASE: true
-          VALIDATE_MARKDOWN: true
-          DEFAULT_BRANCH: dev
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: DavidAnson/markdownlint-cli2-action@v9
+        with:
+          globs: |
+            docs/**/*.md 
+            blog/**/*.md
