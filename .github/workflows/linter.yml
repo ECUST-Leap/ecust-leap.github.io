@@ -15,6 +15,7 @@ jobs:
       - name: Lint Code Base
         uses: DavidAnson/markdownlint-cli2-action@v9
         with:
+          command: fix
           globs: |
             docs/**/*.md
             blog/**/*.md
