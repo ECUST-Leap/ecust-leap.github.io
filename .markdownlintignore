@@ -1,0 +1,5 @@
+README.md
+templates/**/*.md
+node_modules/**/*.md
+build/**/*.md
+.github/**/*.md
