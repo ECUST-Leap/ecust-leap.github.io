@@ -115,6 +115,14 @@
 
 ## 工作流程举例
 
+### 项目管理
+
+https://github.com/ECUST-Leap/ecust-leap.github.io/projects?query=is%3Aopen
+
+点击Project进入面板，并且选择自己想要的view进行查看。
+
+教程：https://docs.github.com/zh/issues/planning-and-tracking-with-projects
+
 ### 上架新稿件
 
 1. 一名编辑通过监测投稿邮箱或者私聊得到一名同学的投稿。
@@ -129,7 +137,14 @@
 ### 对现有工作流程/新特性/任何事情有新想法 或 收到用户反馈
 
 1. 维护者需要创建一个新issue，并详细描述问题以及可能的解决办法。
-2. 协商决定由哪位维护者在什么时间之前完成该任务。
+2. 在issue创建页面，右侧：
+   1. Assignee：选择去解决这个issue的人
+   2. Labels：选择适用于这个issue的
+   3. Projects：选择适用的Project，目前来看是`手册运营日常`
+   4. 点击`Submit new issue`
+3. 创建后的页面，右侧Projects栏，点击Project卡片右侧的`+3 more` 或者上方的展开按钮
+   1. 跟据估计设置Priority和Size
+   2. Sprint选择这个任务的规定完成时间段，目前一个Sprint为一周
 
 ### 邀稿
 
