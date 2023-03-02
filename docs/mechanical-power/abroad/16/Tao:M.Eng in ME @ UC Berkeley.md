@@ -1,7 +1,7 @@
 ---
 tags:
   - 出国
-  - 机械与动力工程
+  - 机械与动力工程学院
   - 机械设计制造及其自动化
   - 2016
   - UC Berkeley
@@ -9,7 +9,7 @@ tags:
 description: 软背景是重要的砝码
 ---
 
-# Tao (2016): Meng in ME  @ UC Berkeley
+# Tao (2016): M.Eng in ME @ UC Berkeley
 
 ## 基本背景
 
@@ -25,7 +25,7 @@ description: 软背景是重要的砝码
 
 ### 最终去向
 
-Meng in ME @ UC Berkeley
+M.Eng in ME @ UC Berkeley
 
 ### Offer
 
@@ -104,6 +104,7 @@ Meng in ME @ UC Berkeley
 ## 联系方式 
 
 目前在国内自动驾驶行业做产品经理，对科技行业（机器人大类）永远充满热情
+
 (添加联系方式请备注个人信息（年级专业姓名（来意）），否则不予通过还请理解) 微信：user_Tao_
 
 <!-- <这部分optional> -->
