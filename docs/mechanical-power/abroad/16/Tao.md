@@ -4,8 +4,8 @@ tags:
   - 机械与动力工程学院
   - 机械设计制造及其自动化
   - 2016
-  - UC Berkeley
-  - Meng in ME 
+  - University of California, Berkeley
+  - Mechanical Engineering
 description: 软背景是重要的砝码
 ---
 
