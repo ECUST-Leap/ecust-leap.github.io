@@ -18,7 +18,7 @@ description: 尽早准备很关键
 - Major: 信息工程
 - Grade（申请时）:
   - Overall GPA: 3.4 / 4.00 (85.16/100)
-  - 初修 GPA: 3.2 / 4.00 
+  - 初修 GPA: 3.2 / 4.00
 - TOEFL: 106 (28/29/25/24) (R/L/S/W) (05/15/2020)
 
 <!-- > 雅思等其他考试遵照类似格式即可 -->
@@ -107,6 +107,7 @@ caterer.jacket.0q@icloud.com
 
 ## 版权
 
+<!-- markdownlint-disable MD033 -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
   <img alt="知识共享许可协议" style={{borderWidth: 0}} src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a>

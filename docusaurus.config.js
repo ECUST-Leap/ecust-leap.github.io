@@ -94,6 +94,11 @@ const config = {
           },
           {to: '/blog', label: '公告', position: 'left'},
           {
+            label: '近期更新',
+            href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/releases',
+            position: 'left',
+          },
+          {
             label: '论坛',
             href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
             position: 'left',
@@ -119,6 +124,10 @@ const config = {
               {
                 label: '公告',
                 to: '/blog',
+              },
+              {
+                label: '近期更新',
+                to: 'https://github.com/ECUST-Leap/ecust-leap.github.io/releases',
               },
             ],
           },

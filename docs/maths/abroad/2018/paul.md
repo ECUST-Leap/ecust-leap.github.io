@@ -43,7 +43,7 @@ MS in Biostatistics @ Yale
 - MSc in Statistics @ Imperial College
 - MSc in Statistics @ UCL
 - MEng in Data Science @ UCLA
-- Ms in  Civil Environmental Engineering @ Stanford 
+- Ms in  Civil Environmental Engineering @ Stanford
 - Ms in Computational Biology and Quantitative Genetics @ Harvard
 - Ms in Applied Statistics @ Umich
 - MPS in Applied Statistics @ Cornell
@@ -69,7 +69,7 @@ MS in Biostatistics @ Yale
 
 ### 刷分
 
-数本的刷分十分头疼，上来的数分对我来说很吃力，在大二上去刷了数分上的分数，但是也不是很满意，只能说随缘吧，我的三门数分是两个3.3 一个3.7其实最后GPA也不是很难看。高等代数和空解4.0难度不大，认真完成作业，考前抓住重点即可。 
+数本的刷分十分头疼，上来的数分对我来说很吃力，在大二上去刷了数分上的分数，但是也不是很满意，只能说随缘吧，我的三门数分是两个3.3 一个3.7其实最后GPA也不是很难看。高等代数和空解4.0难度不大，认真完成作业，考前抓住重点即可。
 
 大二非常容易掉GPA，尤其是大二下，实变你懂的，好在老师比较友好，加上疫情学期加持，把这学期混过去了
 
@@ -85,7 +85,7 @@ MS in Biostatistics @ Yale
 
 感觉Ms不看pub，既然如此就把数模甚么的都放上去吧！生统感觉最好要有相关的经历，文书非常重要。yale不卡三围但是看匹配度。至于统计，ds相关感觉都行
 
-### 申请季 
+### 申请季
 
 收到第一封offer前后的状态完全不一样 借用<寄生虫>的一句话，offer像熨斗，熨平了一切焦虑
 

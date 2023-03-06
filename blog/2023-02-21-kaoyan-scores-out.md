@@ -8,7 +8,7 @@ tags: [公告]
 
 我们是全新的华理飞跃team，一个自发组织收集并分享华理毕业校友毕业去向及经验帖的团队，欢迎访问官网 ——
 
-https://ecust-leap.github.io/
+<https://ecust-leap.github.io/>
 
 发布的时间点刚好就在今日，考研分数公布的日子。
 
