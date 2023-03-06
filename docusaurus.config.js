@@ -125,6 +125,10 @@ const config = {
                 label: '公告',
                 to: '/blog',
               },
+              {
+                label: '近期更新',
+                to: 'https://github.com/ECUST-Leap/ecust-leap.github.io/releases',
+              },
             ],
           },
           {
