@@ -7,7 +7,7 @@ tags:
   - The Technical University of Darmstadt
   - Mechanical Engineering
   - Mechatronik
-description: 软背景是重要的砝码
+description: 论坛上的信息也会良莠不齐，因此要学会筛选信息。
 ---
 # Shangheng (2015) : M.Sc. Mechatronik @ TU Darmstadt
 
