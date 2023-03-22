@@ -3,13 +3,13 @@ tags:
   - 求职
   - 信息科学与工程学院
   - 信息工程
-  - 2020 硕士入学
-  - Byte Dance
+  - 2020
+  - 字节跳动
   - System R&D Engineer
 description: 爱好让我重拾热爱
 ---
 
-# CJJ-DarkLin (2020) :System R&D Engineer @ Byte Dance(base Beijing)
+# CJJ-DarkLin (2020研究生入学) : System R&D Engineer @ ByteDance (base Beijing)
 
 ## 基本背景
 - Major：信息工程
@@ -23,9 +23,8 @@ description: 爱好让我重拾热爱
 
 ### 最终去向
 
-（Bachelor）Game Designer @ Tencent（LIGHTSPEED STUDIOS）
-
-（Master）System Research and Development Engineer @ Byte Dance
+- （Bachelor）Game Designer @ Tencent（LIGHTSPEED STUDIOS）
+- （Master）System Research and Development Engineer @ ByteDance
 
 ### Offer
 
