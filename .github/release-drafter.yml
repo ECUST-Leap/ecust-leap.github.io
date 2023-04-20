@@ -1,0 +1,31 @@
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+include-labels:
+  - '公告 🪧'
+  - '投稿 📖'
+  - '功能 ✨'
+categories:
+  - title: '🪧 新公告'
+    label: '公告 🪧'
+  - title: '📖 新投稿 / 稿件更新'
+    labels:
+      - '投稿 📖'
+  - title: '✨ 新功能'
+    labels:
+      - '功能 ✨'
+change-template: '- $TITLE (#$NUMBER)'
+change-title-escapes: '\<*_&@' # You can add # and @ to disable mentions, and add ` to disable code blocks.
+version-resolver:
+  # major:
+  #   labels:
+  #     - 'major'
+  minor:
+    labels:
+      - '功能 ✨'
+  patch:
+    labels:
+      - '公告 🪧'
+      - '投稿 📖'
+  default: patch
+template: |
+  $CHANGES

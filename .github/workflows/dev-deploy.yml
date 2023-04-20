@@ -1,0 +1,40 @@
+name: Deploy to Dev
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  deploy:
+    name: Deploy to Dev
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          path: 'source-repo'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+          cache-dependency-path: ./source-repo/yarn.lock
+
+      - name: Install dependencies
+        working-directory: source-repo
+        run: yarn install --frozen-lockfile
+      - name: Build website
+        working-directory: source-repo
+        run: yarn build
+        env:
+          BASE_URL: ecust-leap-dev
+
+      - name: Pushes to dev repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'source-repo/build'
+          destination-github-username: 'ECUST-Leap'
+          destination-repository-name: 'ecust-leap-dev'
+          user-email: github-actions@github.com
+          target-branch: main

@@ -1,0 +1,12 @@
+# https://github.com/kentaro-m/auto-assign-action
+addReviewers: false
+
+addAssignees: author
+
+# A number of reviewers added to the pull request
+# Set 0 to add all the reviewers
+# numberOfReviewers: 0
+
+# A list of keywords to be skipped the process that add reviewers if pull requests include it
+skipKeywords:
+  - wip
