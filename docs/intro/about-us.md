@@ -5,7 +5,7 @@ slug: /about-us
 
 # 关于我们
 
-飞跃手册最初在2022年4月发起（Launched By 18级[张润秋](/maths/abroad/2018/paul) & 18级[周沐融](/social-public-mgm/work/2018/muro)），在2023年2月增加了网页前端（Lead By 15级[Yuchen](/cise/abroad/2015/yuchen)）。
+飞跃手册最初在2022年4月发起（Launched By 18级[张润秋](/maths/abroad/2018/paul) & 18级[周沐融](/social-public-mgm/work/2018/muro)），在2023年2月增加了网页前端（Lead By 15级[Aaron](/cise/abroad/2015/aaron)）。
 
 ## 发起人
 
@@ -14,7 +14,7 @@ slug: /about-us
 
 ## 技术负责人 & 项目经理
 
-- [Yuchen](/cise/abroad/2015/yuchen)（2015级）
+- [Aaron](/cise/abroad/2015/aaron)（2015级）
 
 ## 2023年维护团队
 
