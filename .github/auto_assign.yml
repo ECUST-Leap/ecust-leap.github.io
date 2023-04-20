@@ -3,12 +3,6 @@ addReviewers: false
 
 addAssignees: author
 
-# reviewers:
-#   - Yuchen-Wang-SH
-#   - paulzrq
-#   - Muro967
-#   - Oliver20001031
-
 # A number of reviewers added to the pull request
 # Set 0 to add all the reviewers
 # numberOfReviewers: 0
