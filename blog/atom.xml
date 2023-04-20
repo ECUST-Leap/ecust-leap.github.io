@@ -28,8 +28,7 @@
         <summary type="html"><![CDATA[无论你何时毕业，去向如何，我们都随时欢迎你的投稿！]]></summary>
         <content type="html"><![CDATA[<p>无论你何时毕业，去向如何，我们都随时欢迎你的投稿！</p><p>如何投稿详见<a href="https://ecust-leap.github.io/how-to-contribute" target="_blank" rel="noopener noreferrer">投稿指南</a>。</p>]]></content>
         <author>
-            <name>Yuchen</name>
-            <uri>https://github.com/Yuchen-Wang-SH</uri>
+            <name>Aaron</name>
         </author>
         <category label="公告" term="公告"/>
     </entry>
@@ -41,8 +40,7 @@
         <summary type="html"><![CDATA[经过一个月的筹划和开发，华理飞跃手册的网站前端终于和大家见面了！]]></summary>
         <content type="html"><![CDATA[<p>经过一个月的筹划和开发，华理飞跃手册的网站前端终于和大家见面了！</p><p>我在读本科的时候就常在想，要是华理也能和其他一些学校一样，有一本飞跃手册记载过去的学长学姐出国，保研，考研以及求职的经验的话，我一定能少走不少弯路。</p><p>2022年时由张润秋和周沐融两位学弟学妹牵头，华理飞跃手册正式成立。当时的形式是一个在GitHub上的代码库，读者需要在其中找到对应的文章进行浏览。但这样的方式对于没有GitHub使用经验的同学来说可能比较不友好，而且信息的检索以及归档方面存在诸多不便之处。</p><p>2023年1月时，我和他俩以及19级的维护者邵帅一起开始了网站前端的开发项目，于是华理飞跃手册得以以这样的全新面貌展示给大家。无论是美观度，可用性以及易用性，都相比之前有了很大的进步。现在你可以方便的在你的任何设备上访问这个网站，在侧边栏中根据学院，去向类别，本科入学年份等找到对应的经验，甚至可以根据标签或者关键字进行搜索。我们也开放了评论区以及论坛功能供大家讨论。</p><p>接下来我们的发展重点将会是扩充我们的稿件数量，做到更为全面的内容覆盖，希望任何背景的同学们都能在我们这里找到值得参考的过来人的经验。我们欢迎并期待你们的投稿！如果你暂时没有找到适用的经验，可以时不时回来看看我们新上架的稿件，或者联系我们让我们知道你想看的内容。</p><p>祝大家阅读愉快，学业有成！</p>]]></content>
         <author>
-            <name>Yuchen</name>
-            <uri>https://github.com/Yuchen-Wang-SH</uri>
+            <name>Aaron</name>
         </author>
         <category label="公告" term="公告"/>
     </entry>
