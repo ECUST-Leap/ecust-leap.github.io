@@ -9,7 +9,7 @@ GitHub Pages publishes only the files in `redirect/`, which redirect the old
 domain and deep links to the new site. The previous Docusaurus source remains in
 this repository as an archive.
 
-论坛：https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
+论坛：https://github.com/ECUST-Leap/ecust-leap-discussions
 
 ---
 

@@ -63,7 +63,7 @@ PS：标签中的，以及目录和故事标题中出现的「年份」代表入
 
 ## 论坛 🥳
 
-<https://github.com/ECUST-Leap/ecust-leap.github.io/discussions>
+<https://github.com/ECUST-Leap/ecust-leap-discussions>
 
 有任何想要聊的内容欢迎大家发帖。
 
