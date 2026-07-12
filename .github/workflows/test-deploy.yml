@@ -10,16 +10,13 @@ on:
 
 jobs:
   test-deploy:
-    name: Test deployment
+    name: Test redirect
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: yarn
-
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
-      - name: Test build website
-        run: yarn build
+      - name: Verify redirect files
+        run: |
+          test -s redirect/index.html
+          test -s redirect/404.html
+          grep -q 'https://ecust-leap.pages.dev' redirect/index.html
+          grep -q 'https://ecust-leap.pages.dev' redirect/404.html

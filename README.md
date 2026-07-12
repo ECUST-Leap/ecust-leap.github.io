@@ -3,13 +3,17 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-https://ecust-leap.github.io
+The website has moved to https://ecust-leap.pages.dev/.
+
+GitHub Pages publishes only the files in `redirect/`, which redirect the old
+domain and deep links to the new site. The previous Docusaurus source remains in
+this repository as an archive.
 
 论坛：https://github.com/ECUST-Leap/ecust-leap.github.io/discussions
 
 ---
 
-# Website
+# Archived website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -25,7 +29,8 @@ $ yarn
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command serves the redirect-only site at http://localhost:3000/. To run
+the archived Docusaurus development site instead, use `yarn start:archive`.
 
 ### Build
 
