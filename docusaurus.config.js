@@ -100,7 +100,7 @@ const config = {
           },
           {
             label: '论坛',
-            href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
+            href: 'https://github.com/ECUST-Leap/ecust-leap-discussions',
             position: 'left',
           },
           {
@@ -136,7 +136,7 @@ const config = {
             items: [
               {
                 label: '论坛',
-                href: 'https://github.com/ECUST-Leap/ecust-leap.github.io/discussions',
+                href: 'https://github.com/ECUST-Leap/ecust-leap-discussions',
               }
               // {
               //   label: 'Stack Overflow',
